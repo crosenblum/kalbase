@@ -1,0 +1,67 @@
+I decided to make a very clean repack, just using int stuff. I based this repack on the client from 4th march 2010 and the pacd clean server files.
+What I did was making the client working for private server, so I looked whats needed and whats useless for p-servers and can be deleted. 
+Also I removed all the garbage and added descriptions whereever I was able to. Still there is some stuff thats not working, decide yourself what to do with it
+(some monsters, items ..). The initmonster has int experience (1x) and there are not all monsters added. Check the macro for which mobs are in there, they
+just need an initmonster entry to work. The spawns are taken from pacd repack, so the new ones are missing. Same for itemgroups.
+
+
+
+small update list:
+
+* g62 honor bow fixed
+* g70 bow fixed
+* mix effect fixed
+* int mana med effect added
+* new fort gate
+* original indexes
+* all int maps
+* all minimaps added
+* mob motions fixed
+* mob skill motions added
+* tower of priest portals added
+* tower of priest floor 10 gate added
+* position stones added
+* safezones added for foe, top, vod, scenario 3.2, snow event island
+* old cw castle
+* newest e.pk
+* fixed d4 portals
+* assa list fixed
+* reformated macro.dat, inititem, initnpc, initmap, initmonster, genmonster
+* cleaned client from chinese/korean/useless stuff
+* obsidian mainserver addon
+* additional gm commands
+* eagle attack range/rest motion fixed
+* g62 mixing bug fixed
+* polishing bug fixed
+* added world championship pvp map/npc's
+* added int minimaps
+
+
+bugs and things that need to be done:
+
+- make initmonster and add all new monsters (there are alot new monsters in macro.dat which just need to be added to initmonster to work)
+- drops
+
+
+included stuff:
+
++ client
++ server files
++ pk password
++ itemlist
++ map overview
++ coordinates
++ moblist
++ npc shapalist
+
+
+If you find any huge bugs you which should be fixed in this repack please tell me. For any further support send me an private message.
+
+Special thanks to:
+
+~ silentius
+~ spicman
+~ soul666
+
+
+greetz exe

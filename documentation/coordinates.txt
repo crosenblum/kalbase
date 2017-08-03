@@ -1,0 +1,39 @@
+snow event island:
+221184 221184
+
+event island: 
+285159 286768
+
+valley of devah:
+361161 187161
+
+emok island:
+339772 257384
+
+scenario 3.1: desctructing key points
+284819 350953
+288848 351074
+285821 351027
+
+island of battlefield:
+278528 212992
+
+suffering valley:
+335621 340715
+
+scenario 3.2: protecting leader
+310267 284435
+
+hell island:
+286950 318540
+
+hell dungeon:
+map 30, r1:
+183092 17745
+map 30, r2:
+181888 17718 
+soora
+183166 19678
+
+world championship pvp map
+220345 353311

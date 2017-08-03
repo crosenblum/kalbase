@@ -1,0 +1,91 @@
+1 - Farmer
+2 - Miner
+3 - Polka-Dot Man
+4 - Woman
+5 - Prophet
+6 - Ascetic
+7 - Skill Master
+8 - Guard
+9 - Chief Guard
+10 - Black Crow Statue
+13 - Castoff Baby Ghost
+14 - Doggebi
+15 - Assassin List
+16 - Brown Stone
+17 - Doggebi Lord Mirror Stone
+18 - Doggebi Lord's Throne
+19 - Dice Master
+20 - Doggebi Lord's Teleporter
+24 - Bird Event
+25 - Green Tent
+26 - Green Tent
+27 - Orange Tent
+28 - D4 Gate
+29 - Brown Stone
+31 - Mixing Stone
+33 - Stone of Return
+36 - Mix Master
+39 - Old Man
+40 - Red Flag
+41 - Green Flag
+42 - Red Flag
+43 - Green Flag
+44 - Monster Flag 
+45 - Devil wall
+46 - Blue Doggebi
+47 - Red Doggebi
+48 - Gray Doggebi
+51 - Christmas Fairy
+52 - Gate
+55 - Temp Gate Stage 1
+56 - Temp Gate Stage 2
+57 - Temp Gate Stage 3
+58 - Temp Gate Stage 4
+59 - Temp Gate Stage 5
+60 - Temp Gate Stage 6 - finished -
+61 - Golden Doggebi
+62 - Ying Yang Gate
+63 - Stone Block
+64 - Stone Block 2
+65 - Basin
+66 - Pillar
+67 - Tower of Priest f10 gate
+68 - Stone of Position
+70 - Woman
+73 - Man with map
+74 - Old Man
+75 - Vendor
+76 - Woman 2
+77 - Woman 3
+78 - Girl
+79 - Girl 2
+80 - Woman 4
+81 - Man
+82 - Man 2
+83 - Man 3
+84 - Man 4
+85 - Picture of Hell
+86 - Hell Object 1
+87 - Hell Object 2
+88 - Hell Object 3
+89 - Hell Object 4
+90 - Hell Object 5
+91 - Hell Object 6
+92 - Hell Object 7
+93 - Hell Object 8
+95 - Hell Object 9
+96 - Hell Object 10
+98 - Hell Object 11
+99 - Hell Object 12
+100 - Hell Object 13
+102 - Hell Object 14
+103 - Hell Object 15
+114 - Hell Object 16
+119 - Snowman
+120 - Santa Clause
+121 - Flag
+124 - wc event flag base
+125 - wc event flag
+126 - wc event logo
+127 - wc event sign part 1
+128 - wc evebt sign part 2

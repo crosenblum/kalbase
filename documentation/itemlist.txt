@@ -1,0 +1,1546 @@
+1     G1    Short Iron Sword                                  end
+2     G5    Short Steel Sword                                 end
+3     G9    Small Steel Sword                                 end
+4     G13   Iron Sword                                        end
+5     G17   Iron Red-blood Sword                              end
+6     G8    SaSaEul Armor                                     end
+7     G8    SaSaEul Helmet                                    end
+8     G8    SaSaEul Gloves                                    end
+9     G8    SaSaEul Boots                                     end
+10    G8    SaSaEul Shorts                                    end
+11    G16   GyungBunGap Armor                                 end
+12    G16   GyungBunGap Helmet                                end
+13    G16   GyungBunGap Gloves                                end
+14    G16   GyungBunGap Boots                                 end
+15    G16   GyungBunGap Shorts                                end
+16    G24   PanGap Armor                                      end
+17    G24   PanGap Helmet                                     end
+18    G24   PanGap Gloves                                     end
+19    G24   PanGap Boots                                      end
+20    G24   PanGap Shorts                                     end
+21    G25   Big Steel Sword                                   end
+22    G1    Birch Bow                                         end
+23    G5    Oak Bow                                           end
+24    G9    Big Oak Bow                                       end
+25    G13   YeonGak Bow                                       end
+26    G17   YeonHwang Bow                                     end
+27    G25   GangGak Bow                                       end
+28    G10   Small Iron Shield                                 end
+29    G25   Medium Iron Shield                                end
+30    G40   Medium Steel Shield                               end
+31          Zamogeon                                          end
+32    G8    Leather Armor                                     end
+33    G8    Leather Armor Hood                                end
+34    G8    Leather Armor Gloves                              end
+35    G8    Leather Armor Boots                               end
+36    G8    Leather Armor Shorts                              end
+37    G16   DooJungPeeGap Armor                               end
+38    G16   DooJungPeeGap Hood                                end
+39    G16   DooJungPeeGap Gloves                              end
+40    G16   DooJungPeeGap Boots                               end
+41    G16   DooJungPeeGap Shorts                              end
+42    G24   ShaeJaGap Armor                                   end
+43    G24   ShaeJaGap Hood                                    end
+44    G24   ShaeJaGap Gloves                                  end
+45    G24   ShaeJaGap Boots                                   end
+46    G24   ShaeJaGap Shorts                                  end
+47          Small Medicine                                    Recovers Health point by 100
+48          Medium Medicine                                   Recovers Health point by 300
+49    G32   Steel Armor                                       end
+50    G32   Steel Armor Helmet                                end
+51    G32   Steel Armor Gloves                                end
+52    G32   Steel Armor Boots                                 end
+53    G32   Steel Armor Shorts                                end
+54    G32   Intensified ShaeJaGap Armor                       end
+55    G32   Intensified ShaeJaGap Hood                        end
+56    G32   Intensified ShaeJaGap Gloves                      end
+57    G32   Intensified ShaeJaGap Boots                       end
+58    G32   Intensified ShaeJaGap Shorts                      end
+59    G21   Steel Sword                                       end
+60    G29   JuckAh Big Steel Sword                            end
+61    G33   Big Steel Sword with Pattern of Leaf              end
+62    G21   SooWoo YeonGak Bow                                end
+63    G29   SooWoo GangGak Bow                                end
+64    G33   TaeWoon GangGak Bow                               end
+65    G17   Forged Small Iron Shield                          end
+66    G30   Forged Medium Iron Shield                         end
+67    G35   Casted Mediuml Iron Shield                        end
+68    G53   Forged Medium Steel Shield                        end
+69    G56   Casted Medium Steel Shield                        end
+70    G8    MyungJoo HakChangEau Clothes                      end
+71    G8    MyungJoo HakChangEau Hair Decoration              end
+72    G8    MyungJoo HakChangEau Gloves                       end
+73    G8    MyungJoo HakChangEau Boots                        end
+74    G8    MyungJoo HakChangEau Shorts                       end
+75    G16   BeeDan HakChangEau Clothes                        end
+76    G16   BeeDan HakChangEau Hair Decoration                end
+77    G16   BeeDan HakChangEau Gloves                         end
+78    G16   BeeDan HakChangEau Boots                          end
+79    G16   BeeDan HakChangEau Shorts                         end
+80    G24   MyungJoo SoChangEau Clothes                       end
+81    G24   MyungJoo SoChangEau Hair Decoration               end
+82    G24   MyungJoo SoChangEau Gloves                        end
+83    G24   MyungJoo SoChangEau Boots                         end
+84    G24   MyungJoo SoChangEau Shorts                        end
+85    G32   BeeDan SoChangEau Clothes                         end
+86    G32   BeeDan SoChangEau Hair Decoration                 end
+87    G32   BeeDan SoChangEau Gloves                          end
+88    G32   BeeDan SoChangEau Boots                           end
+89    G32   BeeDan SoChangEau Shorts                          end
+90    G1    Bamboo Stick                                      end
+91    G5    Oak Stick                                         end
+92    G9    Oak Petal Stick                                   end
+93    G13   Iron Stick                                        end
+94    G17   Iron JuckMo Stick                                 end
+95    G21   BangChooHyung Iron Stick                          end
+96    G25   HwanDoo Stick                                     end
+97    G29   YeongHwaHwanDoo Stick                             end
+98    G33   HwanRaeHwanDoo Stick                              end
+99    G37   HwanDoo Big Sword                                 end
+100   G40   Red HwanDoo Big Sword                             end
+101   G40   White HwanDoo Big Sword                           end
+102   G40   HwanDoo SaeHyung Big Sword                        end
+103   G45   MaeGak Hwandoo SaeHyung Big Sword                 end
+104   G45   Hwandoo Saehyung Big Sword with Pattern of Leaf   end
+105   G37   HoMee Gak Bow                                     end
+106   G40   Yellow Tiger Pattern Gak Bow                      end
+107   G40   Red Tiger Pattern Gak Bow                         end
+108   G40   ChulTae Bow                                       end
+109   G45   Baek Dae Steel Bow                                end
+110   G45   Yeon Lin Steel Bow                                end
+111   G37   SaeGum Chairperson's Stick                        end
+112   G40   Sae Dan Chairperson's Stick                       end
+113   G40   Sae Hak Chairperson's Stick                       end
+114   G40   JoongBang Chairperson's Stick                     end
+115   G45   Joong Bang Chairperson's WhiteStick               end
+116   G45   Joong Bang Chairperson's Single Stick             end
+117   G42   GangChulGap Armor                                 end
+118   G42   GangChulGap Armor Helmet                          end
+119   G42   GangChulGap Armor Gloves                          end
+120   G42   GangChulGap Armor Boots                           end
+121   G42   GangChulGap Armor Shorts                          end
+122   G42   DooSukLinGap Armor                                end
+123   G42   DooSukLinGap Armor Hood                           end
+124   G42   DooSukLin Gloves                                  end
+125   G42   DooSukLin Boots                                   end
+126   G42   DooSukLinGap Shorts                               end
+127   G42   MyungJoo DaeChangEau                              end
+128   G42   MyungJoo DaeChangEau Hair Decoration              end
+129   G42   MyungJoo DaeChangEau Gloves                       end
+130   G42   MyungJoo DaeChangEau Boots                        end
+131   G42   MyungJoo DaeChangEau Shorts                       end
+132         Gwang-Chun's Letter                               Message that Gwang-Chun wants to get his stuff from Nu-Rook
+133         Mak-AnSoo's Letter                                Message that the Chief Guard Mak-AnSoo informs to the Commander Sae-Won about the demon's strategy
+134         Sae-Won General's Letter                          Message that the Commander Sae-Won orders the Chief Guard Mak-AnSoo about their strategy
+135         Nou-Woong's Letter                                Message that the farmer Nu-Woong presses the miner Gwee-Sik for payment
+136         Won-Jung's Letter                                 Letter that is the guard Won-Jung's message to his wife Yae-Jin
+137         Yae-Jin's Letter                                  Letter that is Yae-Jin's message to her husband Won-Jung
+138         Yoo-An's Letter                                   Letter that Yoo-An declared his love
+139         Father's Letter                                   Letter that is Ok-Jin's father's message to Ok-Jin
+140         Shee-Geun's Message                               Message that was taken by the demons
+141         Demon Troop's Confidential Document               Confidential document that is from the demon commander at the guard Yang-Do's request
+142         MyungJoo                                          MyungJoo that is given by Gwang-Chun to Nu-Rook
+143         Nou-Woong's Money                                 Money that is borrowed from Nu-Woong to Gwee-Sik
+144         SipJunDaeBoTang                                   Medicine that can restore energy
+145         Rice Wine                                         Rice wine that is made by Ok-Jin
+146         Demon's Strategic Map                             Strategic map for position of demons
+147         Demon's Bow                                       Demon Escort Archer's Bow
+148         Suicide Bomber's Oil                              Oil that is carried by the suicide bomber for destroying Geum-Oh Mine
+149         Big Handed Inhabitant's Tooth                     Big Handed Inhabitant's teeth that blocks the load of ocean
+150         Demon Soldier's Teeth                             Demon soldier's teeth that killed Ok-Jin's husband.
+151         Straw Rice Bag                                    Rice that is stolen
+152         Demon's Carcass                                   Demon's carcass that is taken by the demon carcass scavenger
+153         White Peony                                       Material of SipJunDaeBoTang
+154         Milk Vetch                                        Material of SipJunDaeBoTang
+155         Rice Cake                                         Rice cake that is requested by the miner Gwee-Sik to the farmer Ha-Jik
+156         Wa-Ryu's Talisman                                 Talisman that is lost by Wa-Ryu
+157         Joo-Nong's Gold                                   Gold that is taken by demon soldier from Joo-Nong
+158         Ja-Gan's Gold                                     Gold that is donated by Ja-Gan
+159         Piece of Bamboo Pole                              Piece of bamboo pole that demon troops movement is written on
+160         Statue                                            Piece of statue that protects Geum-Oh Mine
+161         Red Flag                                          Demon bearer's flag that are requested by the commander Sae-Won
+162         Demon Water Dragon'sead                           Demon Water Dragon's Head
+163         Demon Mad Knight's Head                           Demon Mad Knight's Head
+164         Demon Water Dragon'sSkin                          Demon Water Dragon Predator's skin for winter clothes'smaterial
+165         Demon's Drum                                      Demon Band's drum that are requested by commander Sae-Won
+166         Demon's Armor                                     Demon Armored Knight's armor that is requested by the Chief guard Guh-SoSun
+167         Bloodstained Clothes                              Missing soldiers'sclothes that are requested by the guard Won-Jung
+168         Demon Water Dragon Commander's Skin               Demon Water Dragon Commander for curing Joong-Gwon's disease
+169         Chun-SooIn's Stirrup                              Stirrup that is lost by Chun-SooIn. It came from the West #n and it is decorated with variety of jewels.
+170         Escort Soldier's Head                             Demon Escort Soldier's Head
+171         Big Handed Inhabitant's Head                      Big Handed Inhabitant's Head
+172         In-Pill's Scabbard                                It's general In-Pill's stingy scabbard. General In-Pill gave this #n to the Demon busters but they were all destroyed #n and lost the scabbard.
+173         Big Handed Warrior's Head                         Big Handed Inhabitant's Head who paint blue and red dyes on their bodies
+174         Demon Soldier's Head                              Demon Infantry's Head
+175         Demon Throwing Soldier's Head                     Demon Throwing Soldier's Head
+176         Wild Demon Soldier's Head                         Wild Demon Soldier's Head
+177         Demon Shock Trooper's Head                        Demon Shock Trooper's Head
+178         Demon Flag Bearer's Head                          Demon Flag Bearer's Head
+179         Demon Band's Head                                 Demon Band's Head
+180         Demon Armored Knight's Head                       Demon Armored Knight's Head
+181         Demon Commander's Head                            Demon Commander's Head. The demon commander is a leader #n of BanGo's general.
+182         Map for Royal Tomb                                Goo-Ryung was looking for this map. Marked area on this map #n located the royal tomb.#n This is a proof that the demons plan to #n attack the royal tomb.
+183         Ancient Drum                                      It's the drum which is called as Ja-MyungGo it sounds itself #n when the enemy troops are coming. The tale about Ja-MyungGo said it has a story #n that the prince and the princess of opponent country.
+184         Golden Armor                                      It's Pan armor which is only made in South Coast country. #n This armor which is called Pan armor of GuemGwan is made of metal plate. #n But it can's be used #n because it's rusty.
+185         Statue of Black Crow                              The black crow is more like a symbol that connects #n the sky and humans. Since the ancient times, #n the kings has the black crow next to him for showing off #n that they are the son of the sky.
+186         Crown of Sun Rising                               This crown with drawing of the black crow #n is the most precious stuff in the world. #n It's rusty now but #n its nobility can's be compared with anything.
+187         Magic Scroll to Narootuh [For Party]              Moving to Narootuh. #n If it's used by the leader of the party, whole party will move #n and if one of the member uses, only that member will move.
+188         Magic Scroll to Jook-Suh Cargo Station [For Party]Moving to Jook-Suh Cargo Station. #n If it's used by the leader of the party, whole party will move #n and if one of the member uses, only that member will move.
+189         Magic Scroll to Geum-Oh Mine [For Party]          Moving to Geum-Oh Mine.#n If it's used by the leader of the party, whole party will move #n and if one of the member uses, only that member will move.
+190         Magic Scroll to The Pub of the Giant Bird [For Party]Moving to the Pub of the Giant Bird.#n If it's used by the leader of the party, whole party will move #n and if one of the member uses, only that member will move.
+191         Magic Scroll to Temporary Fort of Geum-Ohee Castle [For Party]Moving to the Temporary Fort of Geum-Ohee Castle.#n If it's used by the leader of the party, whole party will move #n and if one of the member uses, only that member will move.
+192         Magic Scroll to Narootuh [For Individual]         Moving to Narootuh.#n only the user will move.
+193         Magic Scroll to Jook-Suh Cargo Station [For Individual]Moving to Jook-Suh Cargo Station.#n only the user will move.
+194         Magic Scroll to Geum-Oh Mine [For Individual]     Moving to Geum-Oh Mine.#n only the user will move.
+195         Magic Scroll to The Pub of the Giant Bird [For Individual]Moving to the Pub of the Giant Bird.#n only the user will move.
+196         Magic Scroll to Temporary Fort of Geum-Ohee Castle [For Individual]Moving to Temporary Fort of Geum-Ohee Castle.#n only the user will move.
+202         Apprentice Knight's Trinket                       end
+203         Apprentice Archer's Trinket                       end
+204         Scholar's Trinket                                 end
+205         Trinket                                           end
+206         Protection Talisman                               end
+207         Ring                                              end
+208         Moon-Hee's Doll                                   MoonHee's Doll which is the cause of the fire
+209         Wolf Tooth Necklace                               Necklace which is worn by the descendants of the wolves #n that is made of wolf's tooth
+210         Ghost's Bead                                      A bead with the power of magic for making #n dead man's soul to malignant spirit
+211         Ghost of Blacksmith's Bead                        A bead with the power of magic for making #n dead man's soul to malignant spirit
+212         Ghost of Guard's Bead                             A bead with the power of magic for making #n dead guard's soul to malignant spirit
+213         Ghost of Fellow Traveler's Bead                   A bead with the power of magic for making #n dead man's soul to malignant spirit
+214         Sealed Ghost Troop's Bead                         A bead with the power of magic for making #n dead man's soul to malignant spirit
+215         Devil Soldier's Bow                               Bow that is used by the Devil Soldier Bow
+216         Devil Soldier's Spear                             Spear that is used by the Devil Soldier Spear
+217         Talisman of Purification                          Talisman that is used on the bead of malignant spirit for purification
+218         Talisman of Attack                                Enchanting is only possible on items that are 40 level or above #n and only on the weapons #n Enchanting on the weapon items to improve #n its attacking power
+219         Talisman of Magic                                 Enchanting is only possible on items that are 40 level or above #n and only on the weapons #n Enchanting on the weapon items to improve #n its magical power
+220         Talisman of Accuracy                              Enchanting is only possible on items that are 40 level or above #n and only on the weapons #n Enchanting on the weapon items to improve #n its accuracy
+221         Talisman of Defense                               Enchanting is only possible on items that are 40 level or above #n and only on the armors #n Enchanting on the armor items to improve #n its defense
+222         Talisman of Evasion                               Enchanting is only possible on items that are 40 level or above #n and only on the armors #n Enchanting on the armor items to improve #n its evasion
+223         Normal Fixing Tool                                By using a fixing tool, the damaged item can be repaired #n its endurance by 1 point
+224         Geum-Oh's Fixing Tool                             By using a fixing tool, the damaged item can be repaired #n its endurance by 1 point #n Fixing tool is much cheaper #n in Geum-Oh Mine than #n any other village
+225         Keg of Talisman                                   There're many talismans in the keg#nUsing the talismans to#nseal the spirits in the keg#nfrom Jin-Haerang.
+226         Sealed Talisman with Spirits                      It's a talisman that sealed with spirits#nIt must be filled with spirits#nand give it to Jin-Haerang
+227         Devil Soldier's Head                              Devil Soldier's Head
+228         Devil Soldier Twin Blades' Head                   Devil Soldier twin Blades' Head
+229         Devil Soldier Bow's Head                          Devil Soldier Bow's Head
+230         Devil Soldier Sword's Head                        Devil Soldier Sword's Head
+231         Devil Soldier Spear's Head                        Devil Soldier Spear's Head
+232         Devil Soldier Sub-boss' Head                      Devil Soldier Sub-boss's Head
+233         Devil Soldier Boss' Head                          Devil Soldier Boss's Head
+234         Petition of A Farmer                              Petition of farmer who lost his farmland#nby demons' attack#nThey lost their places by the long war#nbetween the demons and humans#nWhat they really want is that #nthe war ends soon
+235         Petition of A Smith                               It's a smith's petition#nHe was a blacksmith from Geum-Ohee Castle#nThis smith lost his family from the demon soldiers#nand finally he lost his sight#nPeople are so tired of long war#nThey just hope and want to #nthe war end soon.
+236         Petition of A Parents                             Their only son forced to enter war#nand have no response#nThe parents so worried#nTheir son's news is more important#nthan the war for them#nAs it is, the war only gives to the people#na pain and nothing more
+237         Goby                                              It's seen very often#nIt recovers 300 health points
+238         Fish Trap                                         Instrument for catching fish
+239         Mackerel                                          It's seen frequently#nIt recovers 300 health points
+240         Salmon                                            Salmons go for laying eggs.#nIt may be seen frequently#nBut they're not caught often.#nIt recovers 300 health points.
+241         Eel                                               Eels are not seen often#nBut sometimes some of them are cough#nwhen it's lucky day.#nIt recovers 300 health points.
+242   G50   Golden Treasure Sword                             end
+243   G50   Butterfly-Shaped Treasure Sword                   end
+244   G50   Black Golden Treasure Sword                       end
+245   G50   Steel Bow                                         end
+246   G50   Steel Bow with Crow's Feather                     end
+247   G50   Steel Bow with Golden Crow's Feather              end
+248   G50   Stick with Black Crow's Feather                   end
+249   G50   Line Pattern Stick with Black Crow's Feather      end
+250   G50   Stick with Blue Crow's Feather                    end
+251   G46   Intensified Steel Armor                           end
+252   G46   Intensified Steel Helmet                          end
+253   G46   Intensified Steel Gloves                          end
+254   G46   Intensified Steel Shoes                           end
+255   G46   Intensified Steel Shorts                          end
+256   G46   SinGak DooSukLin Armor                            end
+257   G46   SinGak DooSukLin Hood                             end
+258   G46   SinGak DooSukLin Gloves                           end
+259   G46   SinGak DooSukLin Shoes                            end
+260   G46   SinGak DooSukLin Shorts                           end
+261   G46   BeeDan DaeChangEau                                end
+262   G46   BeeDan DaeChangEau Hair Decoration                end
+263   G46   BeeDan DaeChangEau Gloves                         end
+264   G46   BeeDan DaeChangEau Shoes                          end
+265   G46   BeeDan DaeChangEau Shorts                         end
+266         Baked Mackerel in Soy Sauce                       Baked Mackerel in Soy Sauce#nrecovers 100 points of health.
+267         Baked Mackerel with Spicy Sauce                   Baked Mackerel with Spicy Sauce #nrecovers 200 points of health.
+268         Hard-boiled Mackerel                              Hard-boiled Mackerel #nrecovers 300 points of health.
+269         Smoked Salmon                                     Smoked Salmon#nrecovers 400 points of health.
+270         Hard-boiled Salmon with Bean Paste                Hard-boiled Salmon with Bean Paste#nrecovers 500 points of health.
+271         Baked Eel                                         Baked Eel increases #n10% of attack point for 1 hour.
+272         Eel Soup                                          Eel Soup increases#n10% of magic attack point for 1 hour.
+275         Talisman of Wonder                                end
+276         Talisman of Wonder                                end
+277         Talisman of Wonder                                end
+278         Talisman of Intensification                       end
+279         Talisman of Intensification                       end
+280         Talisman of Intensification                       end
+281         Talisman of Intensification                       end
+282         Talisman of Intensification                       end
+283         Talisman of Wonder                                end
+284         Talisman of Wonder                                end
+285         Talisman of Wonder                                end
+286         Talisman of Intensification                       end
+287         Talisman of Intensification                       end
+288         Talisman of Intensification                       end
+289         Talisman of Intensification                       end
+290         Talisman of Intensification                       end
+291         Talisman of Wonder                                end
+292         Talisman of Wonder                                end
+293         Talisman of Wonder                                end
+294         Talisman of Intensification                       end
+295         Talisman of Intensification                       end
+296         Talisman of Intensification                       end
+297         Talisman of Intensification                       end
+298         Talisman of Intensification                       end
+299         Talisman of Wonder                                end
+300         Talisman of Wonder                                end
+301         Talisman of Wonder                                end
+302         Talisman of Intensification                       end
+303         Talisman of Intensification                       end
+304         Talisman of Intensification                       end
+305         Talisman of Intensification                       end
+306         Talisman of Intensification                       end
+307         Talisman of Wonder                                end
+308         Talisman of Wonder                                end
+309         Talisman of Wonder                                end
+310         Talisman of Intensification                       end
+311         Talisman of Intensification                       end
+312         Talisman of Intensification                       end
+313         Talisman of Intensification                       end
+314         Talisman of Intensification                       end
+315         Talisman of Intensification                       end
+316         Talisman of Intensification                       end
+317         Talisman of Intensification                       end
+318         Talisman of Intensification                       end
+319         Talisman of Protection                            end
+320         Talisman of Protection                            end
+321         Talisman of Protection                            end
+322         Talisman of Protection                            end
+323         Talisman of Protection                            end
+324         Talisman of Protection                            end
+325         Talisman of Protection                            end
+326         Talisman of Protection                            end
+327         Talisman of Intensification                       end
+328         Talisman of Intensification                       end
+329         Talisman of Intensification                       end
+330         Talisman of Intensification                       end
+331         Talisman of Intensification                       end
+332         Talisman of Intensification                       end
+335         Head of Huhn-Woong's Enemy                        The one who takes the medicine and meats #nfor Hyun-Woong's father.#nHyun-Woong will be so happy#nif he sees this head.
+336         Keg of Talisman from Chang                        Chang's talisman keg#nChang need this talisman for taking care of Ancient Animals#nBut Doggebi stole it.
+337         Ancient Tiger                                     King of the war#nIt's good at Closed combat.
+338         Ancient Bird                                      The bird that rules the sky#nIt's good at using magic.
+339         Ancient Panther                                   Shadow of death with quickness#nIt's good at speedy combat.
+340         Secret Letter of Hong-Jun                         A secret message to Ma-Yong.
+341         Head of Heuk-Yong                                 Assassin, Heuk-Yong's Head#nbut it's surprise that he was a demon.
+342         Head of Dae-Ill                                   Assassin, Dae-Ill's Head#nbut it's surprise that he was a demon.
+343         Head of Goon-Sangji                               Assassin, Goon-Sangji's Head#nbut it's surprise that he was a demon.
+344         Head of Yoo                                       Assassin, Yoo's Head#nbut it's surprise that he was a demon.
+345         Head of Ma-Gwang                                  Assassin, Ma-Gwang's Head#nbut it's surprise that he was a demon.
+346         Devil Troop of Pain's Mask                        Devil Troop of Pain's Mask#nSpoils from the operation of Eliminating the Devil Troop.
+347         Devil Troop of Greed's Mask                       Devil Troop of Greed's Mask#nSpoils from the operation of Eliminating the Devil Troop.
+348         Devil Troop of Jealousy's Mask                    Devil Troop of Jealousy's Mask#nSpoils from the operation of Eliminating the Devil Troop.
+349         Devil Troop of Hatred's Mask                      Devil Troop of Hatred's Mask#nSpoils from the operation of Eliminating the Devil Troop.
+350         Devil Troop of Madness' Mask                      Devil Troop of Madness's Mask#nSpoils from the operation of Eliminating the Devil Troop.
+351         Mask of Spiderman                                 red spider mask
+352         Mask of Bride                                     bride mask
+353         Mask of Doggebi                                   ghost mask
+354         Mask of Clown                                     entertainer mask
+355         Defective Doggebi's Doll                          mask that came due to request of a ghost#nbut the mask is ruined.
+356         Doggebi's Doll                                    Doggebi's mask that is fixed by Gill-Jun#nIt's now all fixed.
+357         Head Skin of Yong-Chun                            Head Skin of Yong-Chun
+358         Secret Letter                                     Secret Letter
+359         Rope                                              The rope that Hak-Goo looked for
+360         Poison Pouch                                      For using poison arrow,#nPoison bag is needed.
+361         Stone of Birth                                    Give this stone to the Prophet#nfor getting a chance #n to reset your status point.
+362         Stone of Chance                                   Give this stone to the Prophet#nfor getting a chance #n to reset your skill point.
+363         Mask for Knight                                   This mask is crushing.#nAfter a few days, it will be disappeared #nBut you can resell it to the Merchant before it's get disappeared.
+364         Mask for Archer                                   This mask is crushing.#nAfter a few days, it will be disappeared #nBut you can resell it to the Merchant before it's get disappeared.
+365         Mask for Magician                                 This mask is crushing.#nAfter a few days, it will be disappeared #nBut you can resell it to the Merchant before it's get disappeared.
+366   G12   Plum                                              Fruit with good taste#nIt recovers your 120 of MP after 30 seconds#nwhen it's used.
+367   G20   Peach                                             Fruit with good taste#nIt recovers your 240 of MP after 30 seconds#nwhen it's used.
+368   G32   Melon                                             Fruit with good taste#nIt recovers your 510 of MP after 30 seconds#nwhen it's used.
+369   G40   Grape                                             Fruit with good taste#nIt recovers your 750 of MP after 30 seconds#nwhen it's used.
+370   G48   Water Melon                                       Fruit with good taste#nIt recovers your 990 of MP after 30 seconds#nwhen it's used.
+372   G50   Diamond Scaled Armor                              end
+373   G50   Diamond Scaled Helmet                             end
+374   G50   Diamond Scaled Gloves                             end
+375   G50   Diamond Scaled Shoes                              end
+376   G50   Diamond Scaled Shorts                             end
+377   G50   Diamond Armor                                     end
+378   G50   Diamond Helmet                                    end
+379   G50   Diamond Gloves                                    end
+380   G50   Diamond Shoes                                     end
+381   G50   Diamond Shorts                                    end
+382   G50   White DaeChangEau                                 end
+383   G50   White DaeChangEau Hair Decoration                 end
+384   G50   White DaeChangEau Gloves                          end
+385   G50   White DaeChangEau Shoes                           end
+386   G50   White DaeChangEau Shorts                          end
+387         Blood of Big Handed                               Big Handed Inhabitant's Blood
+388         Blood of Water Dragon                             Demon Water Dragon's Blood
+389         Doggebi of Monster Face's Broom                   Doggebi of Monster Face's Broomstick
+390         Doggebi with a Gong's Broom                       Doggebi with a Gong's Broomstick
+391         Drunken Doggebi's Broom                           Drunken Doggebi's Broomstick
+392         Doggebi with a Mask of Black Crow's Broom         Doggebi with a Mask of Black Crow's Broomstick
+393         Doggebi with a Mask of Black Panther's Broom      Doggebi with a Mask of Black Panther's Broomstick
+394         Giant Doggebi's Broom                             Giant Doggebi's Broomstick
+395         Guardian of Doggebi's Stone                       Guardian of Doggebi's Stone
+396         Demon Vulgar's Head                               Demon Vulgar's Head
+397         Demon Scout's Head                                Demon Scout's Head
+398         Demon Spearhead's Head                            Demon Spearhead's Head
+399   G8    Small Potato                                      Small potato.#nIt recovers your 270 of health after 30 seconds#nwhen it's used.
+400   G12   Potato                                            Small potato.#nIt recovers your 330 of health after 30 seconds#nwhen it's used.
+401   G16   Big Potato                                        Big potato.#nIt recovers your 420 of health after 30 seconds#nwhen it's used.
+402   G20   Cooked Potato                                     Cooked potato.#nIt recovers your 540 of health after 30 seconds#nwhen it's used.
+403   G24   Small Sweet Potato                                Small sweet potato.#nIt recovers your 690 of health after 30 seconds#nwhen it's used.
+404   G28   Sweet Potato                                      It's sweet potato.#nIt recovers your 840 of health after 30 seconds#nwhen it's used.
+405   G32   Big Sweet Potato                                  Big sweet potato.#nIt recovers your 1020 of health after 30 seconds#nwhen it's used.
+406   G36   Cooked Sweet Potato                               It's a cooked sweet potato#nIt recovers your 1230 of health after 30 seconds#nwhen it's used.
+407   G40   Piece of Meat                                     It's small meat of wild animals.#nIt recovers your 1440 of health after 30 seconds#nwhen it's used.
+408   G44   Chop of Meat                                      It's medium meat of wild animals.#nIt recovers your 1650 of health after 30 seconds#nwhen it's used.
+409   G48   Big Piece of Meat                                 It's big meat of wild animals.#nIt recovers your 1890 of health after 30 seconds#nwhen it's used.
+410   G52   Cooked Chop of Meat                               It's meat of wild animals.#nIt recovers your 2190 of health after 30 seconds#nwhen it's used.
+411   G56   Pork Leg of Geum-Oh Mountain                      It's pork leg of Geum-Oh Mountain. It recovers your 2490 of health after 30 seconds#nwhen it's used.
+412   G60   Pork Rib of Geum-Oh Mountain                      It's pork rib of Geum-Oh Mountain.#nIt recovers your 2820 of health after 30 seconds#nwhen it's used.
+413   G64   Tiger Meat of Geum-Oh Mountain                    It's meat of tiger meat in Geum-Oh Mountain.#nIt recovers your 3150 of health after 30 seconds#nwhen it's used.
+414   G8    Small Water of Geum-Oh Mountain                   It's cold water from Geum-Oh Mountain.#nIt recovers your 90 of energy after 30 seconds#nwhen it's used.
+415   G12   Medium Water of Geum-Oh Mountain                  It's cold water from Geum-Oh Mountain.#nIt recovers your 120 of energy after 30 seconds#nwhen it's used.
+416   G16   Large Water of Geum-Oh Mountain                   It's cold water from valley of Geum-Oh Mountain.#nIt recovers your 180 of energy after 30 seconds#nwhen it's used.
+417   G20   Best Water of Geum-Oh Mountain                    It's cold water from valley of Geum-Oh Mountain.#nIt recovers your 240 of energy after 30 seconds#nwhen it's used.
+418   G24   Small Water of Geum-Oh Valley                     It's cold water from valley of Geum-Oh Mountain.#nIt recovers your 330 of energy after 30 seconds#nwhen it's used.
+419   G28   Medium Water of Geum-Oh Valley                    It's cold water from valley of Geum-Oh Mountain.#nIt recovers your 420 of energy after 30 seconds#nwhen it's used.
+420   G32   Large Water of Geum-Oh Valley                     It's cold water from valley of Geum-Oh Mountain.#nIt recovers your 510 of energy after 30 seconds#nwhen it's used.
+421   G36   Best Water of Geum-Oh Valley                      It's cold water from valley of Geum-Oh Mountain.#nIt recovers your 630 of energy after 30 seconds#nwhen it's used.
+422   G40   Small Refining Water                              Refined water from clear water.#nIt recovers your 750 of energy after 30 seconds#nwhen it's used.
+423   G44   Medium Refining Water                             Refined water from clear water.#nIt recovers your 870 of energy after 30 seconds#nwhen it's used.
+424   G48   Large Refining Water                              Refined water from clear water.#nIt recovers your 990 of energy after 30 seconds#nwhen it's used.
+425   G52   Best Refining Water                               Refined water from clear water.#nIt recovers your 1170 of energy after 30 seconds#nwhen it's used.
+426   G56   Small Boiling Water                               Refined water in the deep mountain.#nIt recovers your 1350 of energy after 30 seconds#nwhen it's used.
+427   G60   Medium Boilling Water                             Refined water in the deep mountain.#nIt recovers your 1560 of energy after 30 seconds#nwhen it's used.
+428   G64   Best Boilling Water                               Refined water in the deep mountain.#nIt recovers your 1770 of energy after 30 seconds#nwhen it's used.
+429   G44   Large Iron Shield                                 end
+430   G48   Ghost Shaped Iron Shield                          end
+431   G52   Iron Shield With Gong                             end
+432         Skeleton Warrior's Head                           The Skeleton Warrior of the Royal Tomb's Skull#nIts spirit is in there.
+433         Skeleton Warrior's Ribs                           The Skeleton Warrior of the Royal Tomb's Ribs#nIts spirit is in there.
+434         Royal Tomb Keeper's Book                          The Minister of the Royal Tomb's Book#nIts spirit is in there.
+435         Royal Tomb Keeper's Lute                          The Maid of Honor of the Royal Tomb's Lute#nIts spirit is in there.
+436         Royal Tomb Keeper's Sword                         The Royal Tomb Keeper's Sword#nIts spirit is in there.
+437         Royal Tomb Keeper's Shield                        The Royal Tomb Keeper's Shield#nIts spirit is in there.
+438         Royal Tomb Keeper's Spear                         The Royal Tomb Keeper's Spear#nIts spirit is in there.
+439         Royal Tomb Keeper's Iron Hammer                   The Royal Tomb Keeper's Iron Hammer#nIts spirit is in there.
+440   G50   Giant Sword                                       end
+441   G50   Revengeful Sword                                  end
+442   G50   Butterfly-Shaped Giant Sword                      end
+443         Demon's blood                                     It's demon's blood and it's strong acid.
+444         Sea-bream                                         Using for recovering 300 points of health.#nBut it also can be used for making speed-up medicines#nPlease be careful to use.
+445         Bamboo Keg                                        A keg for filling solution.
+446         Sea Bream with Blood                              Using demon's blood to#nmelt sea bream for making#na material of Speed-up medicine.
+447         Speed up Medicine                                 The efficacy is same as level 3 of Speed-up skill.#nSpeed increases for 30 min. when it used.
+448         Green Crystal of Doggebi Forest                   Devil Troops are absorbing the power of Doggebi Forest.#nThis Crystal is taken from the Devil Troop.#nIt contains the power of Doggebi Forest.
+449         Spirit of Doggebi of Monster Face                 It's a Spirit of Doggebi of Monster Face#nwho joined the Angry Doggebi Troop.
+450         Spirit of Doggebi with a Gong                     It's a Spirit of Doggebi with a Gong#nwho joined the Angry Doggebi Troop.
+451         Spirit of Drunken Doggebi                         It's a Spirit of Drunken Doggebi#nwho joined the Angry Doggebi Troop.
+452         Spirit of Doggebi with a Mask of Black Crow       It's a Spirit of Doggebi with a Mask of Black Crow#nwho joined the Angry Doggebi Troop.
+453         Spirit of Doggebi with a Mask of Black Panther    It's a Spirit of Doggebi with a Mask of Black Panther#nwho joined the Angry Doggebi Troop.
+454         Spirit of Giant Doggebi                           It's a Spirit of Giant Doggebi#nwho joined the Angry Doggebi Troop.
+455         Spirit of Guardian of Doggebi                     It's a Spirit of Guardian of Doggebi#nwho joined the Angry Doggebi Troop.
+456         Chief of Angry Doggebi Troop's Dead Body          It's the Chief of Angry Doggebi Troop's dead body#nHe instigated all other Doggebis to attack people.#nBut he'll be returned with a new body.
+457   G53   Diamond Treasure Sword                            end
+458   G53   Diamond Sword of Pain                             end
+459   G53   Diamond Sword of Phantom                          end
+460   G53   Diamond Giant Sword                               end
+461   G53   Diamond Giant Sword of Pain                       end
+462   G53   Diamond Giant Sword of Phantom                    end
+463   G53   Diamond Bow                                       end
+464   G53   Diamond Bow of Pain                               end
+465   G53   Diamond Bow of Phantom                            end
+466   G53   Diamond Stick                                     end
+467   G53   Diamond Stick of Pain                             end
+468   G53   Diamond Stick of Phantom                          end
+469         Stone of EXP - 1 day                              Gathering of EXP from monsters is increased by 30%.#n[This item is good for 1 day.]
+470         Stone of EXP - 7 days                             Gathering of EXP from monsters is increased by 30%.#n[This item is good for 7 days.]
+471         Stone of EXP - 15 days                            Gathering of EXP from monsters is increased by 30%.#n[This item is good for 15 days.]
+472         Stone of EXP - 30 days                            Gathering of EXP from monsters is increased by 30%.#n[This item is good for 30 days.]
+473         Stone of Wealth - 1 day                           Gathering of money from monsters is increased by 20%.#nBut it's not effective when you're in a party.#nIt only effects to the one who used.#n[This item is good for 1 day.]
+474         Stone of Wealth - 7 days                          Gathering of money from monsters is increased by 20%.#nBut it's not effective when you're in a party.#nIt only effects to the one who used.#n[This item is good for 7 days.]
+475         Stone of Wealth - 15 days                         Gathering of money from monsters is increased by 20%.#nBut it's not effective when you're in a party.#nIt only effects to the one who used.#n[This item is good for 15 days.]
+476         Stone of Wealth - 30 days                         Gathering of money from monsters is increased by 20%.#nBut it's not effective when you're in a party.#nIt only effects to the one who used.#n[This item is good for 30 days.]
+477         Stone of Fishery - 1 day                          Speed of fishery is increased by 50%.#n[This item is good for 1 day.]
+478         Stone of Fishery - 7 days                         Speed of fishery is increased by 50%.#n[This item is good for 7 days.]
+479         Stone of Fishery - 15 days                        Speed of fishery is increased by 50%.#n[This item is good for 15 days.]
+480         Stone of Fishery - 30 days                        Speed of fishery is increased by 50%.#n[This item is good for 30 days.]
+481         Polishing Stone                                   When it used on an item,#nitem won't be destroyed even if it failed to enchant with talisman.
+482         High-Grade Scroll of Rebirth                      You can revive from the place.#nwhere you got killed without any EXP loss.
+483         Scroll of Rebirth                                 You can revive from the place#nwhere you got killed with 20% of EXP loss.
+484         Magic Scroll to the City of Priest [For Party]    Teleport to the City of Priest.#nFor all party members#nif the leader is used.
+485         Magic Scroll to the City of Priest [For Individual]Teleport to the City of Priest.#nOnly for individual.
+503         Flag of Speed                                     Increasing the combatants' Moving Speed.#n[Combatant]#nMoving Speed gets increased by 50%#n[Flag Bearer]#nPhysical Attack gets decreased by 50%#nMoving Speed gets increased by 50%
+504         Flag of Struggle                                  Increasing the combatants' Physical Attack.#n[Combatant]#nPhysical Attack gets increased by 20%#n[Flag Bearer]#nHP gets increased by 100%#nAttack gets decreased by 50%#nMoving Speed gets decreased by 20%
+505         Flag of Magic                                     Increasing the combatants' Magic Attack.#n[Combatant]#nMagic Attack gets increased by 20%#n[Flag Bearer]#nHP gets increased by 100%#nAttack gets decreased by 50%#nMoving Speed gets decreased by 20%
+506         Flag of Defense                                   Increasing the combatants' Absorption Rate.#n[Combatant]#nAbsorption Rate gets increased by 30#n[Flag Bearer]#nHP gets increased by 100%#nAttack gets decreased by 50%#nMoving Speed gets decreased by 20%
+507         Flag of Intelligence                              Increasing the combatants' Magic Defense.#n[Combatant]#nMagic Defense gets increased by 30#n[Flag Bearer]#nHP gets increased by 100%#nAttack gets decreased by  50%#nMoving Speed gets decreased by 20%
+508         Flag of Impregnableness                           Healing the combatants' HP by 100 per each sec.#n[Combatant]#nHealing HP by 100 per each second#n[Flag Bearer]#nHP gets increased by 100%#nAttack gets decreased by 50%#nMoving Speed gets decreased by 20%
+509         Saving Scroll of Location                         Save the current location.#nOnce it saved, it keeps forever#nand you can use the Moving Scroll of Location to teleport.#nPress [.] button for saving location.
+511         Moving Scroll of Location                         You need Moving Scroll of Location #nto teleport to the saved loction.#nIt cosumes 1 Moving Scroll of Location for each time you teleport.#nPress [.] button to teleport.
+513         Horn                                              By using the Horn, send your message to the people#ntwice much wider than normal.#nUse [/yell Content] or [/y Content] command.
+515         Horn of Spirit                                    Send your message to all players in the server#nby using the Horn of Spirit.#nUse [/shout content] or [/s content] as a command.
+517         Stone of Revision                                 It supports to increase the percentage of success#nwhen upgrading the quality of weapon's additional damage.
+521         Red Box                                           [Event Item]#nIt's locked with ancient magic.#nTalk to the Village Elder about this box.
+522         Blue Box                                          [Event Item]#nQuest Item#nyou can get some money when you sell this at the store.
+523         Talisman of Intensification                       end
+524         Scroll of Power Improvement                       Final striking power(physical/magical
+525         Scroll of Damage Reduction                        Final damage from the monster is decreased by 10%.
+526         Scroll of Normal Explosive Blow Improvement       Activity of Explosive Blow percentage is increased by 3%.
+527         Scroll of High Explosive Blow Improvement         Activity of Explosive Blow percentage is increased by 5%.
+528         Scroll of Accuracy Improvement                    Final On Target Point is increased by 10.
+529         Scroll of Evasion Improvement                     Final Evasion Point is increased by 5.
+530         Scroll of Normal Perfect Defense                  Absorbing the enemy's attack with 10% activity percentage.#nIt consumes one whenever the absorbing is activated.
+531         Scroll of Medium Perfect Defense                  Absorbing the enemy's attack with 10% activity percentage.#nIt consumes one whenever the absorbing is activated.
+532         Scroll of High Perfect Defense                    Absorbing the enemy's attack with 10% activity percentage.#nIt consumes one whenever the absorbing is activated.
+533         Potion of Tiger Claws                             Strength is increased by 5
+534         Potion of Bear Skin                               Health is increased by 10
+535         Potion of Wisdom                                  Intelligence is increased by 5
+536         Potion of Foresight                               Wisdom is increased by 10
+537         Potion of Eagle Wings                             Agility is increased by 5
+538         Scroll of Normal HP Absorption                    Draining the enemy's HP as much as your damage to the enemy#nwith 10% activity percentage.#nIt consumes one whenever the absorbing is activated.
+539         Scroll of Medium HP Absorption                    Draining the enemy's HP as much as your damage to the enemy#nwith 10% activity percentage.#nIt consumes one whenever the absorbing is activated.
+540         Scroll of High HP Absorption                      Draining the enemy's HP as much as your damage to the enemy#nwith 10% activity percentage.#nIt consumes one whenever the absorbing is activated.
+558                                                           [event item]#nENGean flag is showing the characteristics of ENGean traditions#ntrue meaning of gathering of nation#nface of a nation and stands for the nation.#nthis item will be partially deleted after the event.#neffect: HP 100+
+559                                                           [event item]#nDok-island is 92km away from southeast of woolueng-island.#nthere are east and west islands#nthere are more than 60 kinds of reef around the island.#nthis item will be partially deleted after the event.#neffect: HP 100+
+560   G56   Ancient Treasure Sword                            end
+561   G56   General's Treasure Sword                          end
+562   G56   Ancient Dynasty's Treasure Sword                  end
+563   G56   Ancient Giant Sword                               end
+564   G56   General's Giant Sword                             end
+565   G56   Ancient Dynasty's Giant Sword                     end
+566   G56   Ancient Tribal Mac's Bow                          end
+567   G56   General of Ancient Tribal Mac's Bow               end
+568   G56   Ancient Dynasty of Tribal Mac's Bow               end
+569   G56   Ancient Stick                                     end
+570   G56   General's Stick                                   end
+571   G56   Ancient Dynasty's Stick                           end
+572   G48   Savage Tribe's Treasure Sword                     end
+573   G48   Savage Tribe's Tiger Teeth Sword                  end
+574   G48   Savage Tribe's Truth Sword                        end
+578   G48   Savage Tribe's ChulTae Bow                        end
+579   G48   Savage Tribe's Blue ChulTae Bow                   end
+580   G48   Savage Tribe's Red ChulTae Bow                    end
+581   G48   Savage Tribe's Religious Stick                    end
+582   G48   Savage Tribe's Big Stick                          end
+583   G48   Savage Tribe's Grand Stick                        end
+584   G59   Treasure Sword of Doggebi                         end
+585   G59   Treasure Sword of High Class Doggebi              end
+586   G59   Treasure Sword of Doggebi Lord                    end
+587   G59   Giant Sword of Doggebi                            end
+588   G59   Giant Sword of High Class Doggebi                 end
+589   G59   Giant Sword of Doggebi Lord                       end
+590   G59   Bow of Doggebi                                    end
+591   G59   Bow of High Class Doggebi                         end
+592   G59   Bow of Doggebi Lord                               end
+593   G59   Stick of Doggebi                                  end
+594   G59   Stick of High Class Doggebi                       end
+595   G59   Stick of Doggebi Lord                             end
+596   G1    Lucky Necklace                                    Lucky Necklace will be disappeared after the Event ends.
+597         Scroll of Power Improvement                       1 Hour#nFinal striking power(physical/magical
+599         Scroll of Damage Reduction                        1 Hour#nFinal damage from the monster is decreased by 10%.
+601         Explosive Blow Improvement                        1 Hour#nActivity of Explosive Blow percentage is increased by 5%.
+603         Scroll of Accuracy Improvement                    1 Hour#nFinal On Target Point is increased by 10.
+605         Scroll of Evasion Improvement                     1 Hour#nFinal Evasion Point is increased by 5.
+607         Potion of Tiger Claws                             1 Hour#nStrength is increased by 5
+608         Potion of Bear Skin                               1 Hour#nHealth is increased by 10
+609         Potion of Wisdom                                  1 Hour#nIntelligence is increased by 5
+610         Potion of Foresight                               1 Hour#nWisdom is increased by 10
+611         Potion of Eagle Wings                             1 Hour#nAgility is increased by 5
+617         Scroll of Perfect Defense                         500 Times#nAbsorbing the whole enemy's attack with 10% activity percentage.#nIt consumes one whenever the absorbing is activated.
+618         Scroll of HP Absorption                           500 Times#nDraining the enemy's HP as much as your damage to the enemy#nwith 10% activity percentage.#nIt consumes one whenever the absorbing is activated.
+621   G55   Scaled Armor of Doggebi                           end
+622   G55   Scaled Helmet of Doggebi                          end
+623   G55   Scaled Gloves of Doggebi                          end
+624   G55   Scaled Shoes of Doggebi                           end
+625   G55   Scaled Shorts of Doggebi                          end
+626   G55   Armor of Doggebi                                  end
+627   G55   Helmet of Doggebi                                 end
+628   G55   Gloves of Doggebi                                 end
+629   G55   Shoes of Doggebi                                  end
+630   G55   Shorts of Doggebi                                 end
+631   G55   DaeChangEau of Doggebi                            end
+632   G55   Hair Decoration of Doggebi                        end
+633   G55   DaeChangEau Gloves of Doggebi                     end
+634   G55   DaeChangEau Shoes of Doggebi                      end
+635   G55   DaeChangEau Shorts of Doggebi                     end
+636         Lucky Key                                         7 Days#nAdditional item is dropped when opening a Wooden Box.#nShorten the time for opening the Wooden Box.
+637         Lucky Stone                                       7 Days#nLucky Finish can be executed when in use.#nZamogeons can be dropped from the monsters#nup to 300 times more.
+638         Piece of Lucky Stone                              1 Hour#nLucky Finish can be executed when in use.#nBut 300 times more zamogeon is not executed.
+639         Name List[Character]                              Character name can be changed for one time.#nBut you only can use it again after 3 weeks once you used.
+640         Name List[Guild]                                  Guild name can be changed for one time.#nBut you only can use it again after 3 weeks once you used.
+641         First Piece of Bronze Mirror                      It's First Piece of Bronze Mirror#nfor summoning the Doggebi Lord.
+642         Second Piece of Bronze Mirror                     It's Second Piece of Bronze Mirror#nfor summoning the Doggebi Lord.
+643         Third Piece of Bronze Mirror                      It's Third Piece of Bronze Mirror#nfor summoning the Doggebi Lord.
+644         Forth Piece of Bronze Mirror                      It's Forth Piece of Bronze Mirror#nfor summoning the Doggebi Lord.
+645         Fifth Piece of Bronze Mirror                      It's Fifth Piece of Bronze Mirror#nfor summoning the Doggebi Lord.
+646         Six Piece of Bronze Mirror                        It's Sixth Piece of Bronze Mirror#nfor summoning the Doggebi Lord.
+647         Seventh Piece of Bronze Mirror                    It's Seventh Piece of Bronze Mirror for summoning the Doggebi Lord.
+648         Eighth Piece of Bronze Mirror                     It's Eighth Piece of Bronze Mirror for summoning the Doggebi Lord.
+649         Golden Coin                                       [Event Item]#nThis is a golden coin that lets you play#nwith the Master of Dice.#nThis item will be deleted after the event.
+654                                                           end
+655                                                           end
+656                                                           end
+657         Stone of Job                                      2nd Job can be reset with this item.#nThis item only can be used when you have the 2nd Job.
+658         Mask for Knight                                   You can be an Assassin(PK will be enabled
+659         Mask for Archer                                   You can be an Assassin(PK will be enabled
+660         Mask for Magician                                 You can be an Assassin(PK will be enabled
+661         High-Grade Stone of Chance                        Resetting all your skills except the basic skills.
+662         Gold Coin                                         You can play mini games with gold coins.
+663         Gold Lucky Pouch                                  An useful item(s
+664         Silver Lucky Pouch                                An useful item(s
+665   G62   Golden Sword                                      end
+666   G62   Golden Giant Sword                                end
+667   G62   Golden Bow                                        end
+668   G62   Golden Stick                                      end
+669   G65   Dragon Sword of Sky                               end
+670   G65   Dragon Giant Sword of Sky                         end
+671   G65   Dragon Bow of Sky                                 end
+672   G65   Dragon Stick of Sky                               end
+673   G65   Scaled Armor of Darkness                          end
+674   G65   Scaled Helmet of  Darkness                        end
+675   G65   Scaled Gloves of Darkness                         end
+676   G65   Scaled Shoes of  Darkness                         end
+677   G65   Scaled Shorts of Darkness                         end
+678   G65   Armor of Darkness                                 end
+679   G65   Helmet of Darkness                                end
+680   G65   Gloves of Darkness                                end
+681   G65   Shoes of Darkness                                 end
+682   G65   Shorts of Darkness                                end
+683   G65   DaeChangEau of Darkness                           end
+684   G65   Hair Decoration of Darkness                       end
+685   G65   DaeChangEau Gloves of Darkness                    end
+686   G65   DaeChangEau Shoes of Darkness                     end
+687   G65   DaeChangEau Shorts of Darkness                    end
+688   G60   Shield of Darkness                                end
+689         Gold Pot                                          When it used, other item is out of the pot in a certain probability.
+690         Silver Pot                                        When it used, other item is out of the pot in a certain probability.
+691   G53   Diamond Treasure Sword                            end
+692   G53   Diamond Sword of Pain                             end
+693   G53   Diamond Sword of Phantom                          end
+694   G53   Diamond Giant Sword                               end
+695   G53   Diamond Giant Sword of Pain                       end
+696   G53   Diamond Giant Sword of Phantom                    end
+697   G53   Diamond Bow                                       end
+698   G53   Diamond Bow of Pain                               end
+699   G53   Diamond Bow of Phantom                            end
+700   G53   Diamond Stick                                     end
+701   G53   Diamond Stick of Pain                             end
+702   G53   Diamond Stick of Phantom                          end
+703   G56   Ancient Treasure Sword                            end
+704   G56   General's Treasure Sword                          end
+705   G56   Ancient Dynasty's Treasure Sword                  end
+706   G56   Ancient Giant Sword                               end
+707   G56   General's Giant Sword                             end
+708   G56   Ancient Dynasty's Giant Sword                     end
+709   G56   Ancient Tribal Mac's Bow                          end
+710   G56   General of Ancient Tribal Mac's Bow               end
+711   G56   Ancient Dynasty of Tribal Mac's Bow               end
+712   G56   Ancient Stick                                     end
+713   G56   General's Stick                                   end
+714   G56   Ancient Dynasty's Stick                           end
+715   G50   Diamond Scaled Armor                              end
+716   G50   Diamond Scaled Helmet                             end
+717   G50   Diamond Scaled Gloves                             end
+718   G50   Diamond Scaled Shoes                              end
+719   G50   Diamond Scaled Shorts                             end
+720   G50   Diamond Armor                                     end
+721   G50   Diamond Helmet                                    end
+722   G50   Diamond Gloves                                    end
+723   G50   Diamond Shoes                                     end
+724   G50   Diamond Shorts                                    end
+725   G50   White DaeChangEau                                 end
+726   G50   White DaeChangEau Hair Decoration                 end
+727   G50   White DaeChangEau Gloves                          end
+728   G50   White DaeChangEau Shoes                           end
+729   G50   White DaeChangEau Shorts                          end
+730   G55   Scaled Armor of Doggebi                           end
+731   G55   Scaled Helmet of Doggebi                          end
+732   G55   Scaled Gloves of Doggebi                          end
+733   G55   Scaled Shoes of Doggebi                           end
+734   G55   Scaled Shorts of Doggebi                          end
+735   G55   Armor of Doggebi                                  end
+736   G55   Helmet of Doggebi                                 end
+737   G55   Gloves of Doggebi                                 end
+738   G55   Shoes of Doggebi                                  end
+739   G55   Shorts of Doggebi                                 end
+740   G55   DaeChangEau of Doggebi                            end
+741   G55   Hair Decoration of Doggebi                        end
+742   G55   DaeChangEau Gloves of Doggebi                     end
+743   G55   DaeChangEau Shoes of Doggebi                      end
+744   G55   DaeChangEau Shorts of Doggebi                     end
+745   G59   Treasure Sword of Doggebi                         end
+746   G59   Treasure Sword of High Class Doggebi              end
+747   G59   Treasure Sword of Doggebi Lord                    end
+748   G59   Giant Sword of Doggebi                            end
+749   G59   Giant Sword of High Class Doggebi                 end
+750   G59   Giant Sword of Doggebi Lord                       end
+751   G59   Bow of Doggebi                                    end
+752   G59   Bow of High Class Doggebi                         end
+753   G59   Bow of Doggebi Lord                               end
+754   G59   Stick of Doggebi                                  end
+755   G59   Stick of High Class Doggebi                       end
+756   G59   Stick of Doggebi Lord                             end
+757         Lucky Wooden Box                                  [Event Item]#nThis is a Lucky Wooden Box#nIf you keep this untill the event ends,#nYou may get a present from the draw.#nPlease refer the homepage for more information.
+758         Lucky Key[1day]                                   1 Day#nAdditional item is dropped when opening a Wooden Box.#nShorten the time for opening the Wooden Box.
+759         Lucky Stone[1day]                                 1 Day#nLucky Finish can be executed when in use.#nZamogeons can be dropped from the monsters#nup to 300 times more.
+760         Key for the Gate of Advance Base                  This is the Key for the Gate of Advance Base.#nIt's for opening the gate.
+761         Handle of Cannon Barrel                           This is one of the materials of the cannon.#nIt's handle of the cannon.
+762         Priming Powders                                   This is one of the materials of the cannon.#nIt's used for firing.
+763         Ignition Tube                                     This is one of the materials of the cannon.#nIt's used for igniting.
+764         Chamber of Cannon Barrel                          This is one of the materials of the cannon.#nIt's the place of putting the firing powders.
+765         Barrel of White Tiger Cannon                      This is the barrel of White Tiger Cannon.
+766         Supports of White Tiger Cannon                    This is the supports of White Tiger Cannon.
+767         Cannon Ball of White Tiger Cannon                 This is the cannon ball of White Tiger Cannon. #nIt explodes after 3 seconds.
+768         Muzzle of White Tiger Cannon                      This is the muzzle of White Tiger Cannon.#nIt looks like a white tiger.
+769   G40   Imperial SaeHyung Big Sword                       end
+770   G40   Imperial ChulTae Bow                              end
+771   G40   Imperial JoongBang Chairperson's Stick            end
+772   G45   Imperial Hwandoo Saehyung Big Sword with Pattern of Leafend
+773   G45   Imperial Yeon Lin Steel Bow                       end
+774   G45   Imperial Joong Bang Chairperson's WhiteStick      end
+775   G48   Imperial Savage Tribe's Tiger Teeth Sword         end
+776   G48   Imperial Savage Tribe's Blue ChulTae Bow          end
+777   G48   Imperial Savage Tribe's Grand Stick               end
+778   G50   Imperial Black Golden Treasure Sword              end
+779   G50   Imperial Butterfly-Shaped Giant Sword             end
+780   G50   Imperial Steel Bow with Crow's Feather            end
+781   G50   Imperial Stick with Blue Crow's Feather           end
+782   G53   Imperial Diamond Sword of Pain                    end
+783   G53   Imperial Diamond Giant Sword of Pain              end
+784   G53   Imperial Diamond Bow of Phantom                   end
+785   G53   Imperial Diamond Stick of Pain                    end
+786   G56   Imperial General's Treasure Sword                 end
+787   G56   Imperial General's Giant Sword                    end
+788   G56   Imperial General of Ancient Tribal Mac's Bow      end
+789   G56   Imperial General's Stick                          end
+790   G59   Imperial Treasure Sword of Doggebi                end
+791   G59   Imperial Giant Sword of Doggebi                   end
+792   G59   Imperial Bow of Doggebi                           end
+793   G59   Imperial Stick of Doggebi                         end
+794   G62   Imperial Golden Sword                             end
+795   G62   Imperial Golden Giant Sword                       end
+796   G62   Imperial Golden Bow                               end
+797   G62   Imperial Golden Stick                             end
+798   G65   Imperial Dragon Sword of Sky                      end
+799   G65   Imperial Dragon Giant Sword of Sky                end
+800   G65   Imperial Dragon Bow of Sky                        end
+801   G65   Imperial Dragon Stick of Sky                      end
+802   G53   Diamond Treasure Sword                            end
+803   G53   Diamond Sword of Pain                             end
+804   G53   Diamond Sword of Phantom                          end
+805   G53   Diamond Giant Sword                               end
+806   G53   Diamond Giant Sword of Pain                       end
+807   G53   Diamond Giant Sword of Phantom                    end
+808   G53   Diamond Bow                                       end
+809   G53   Diamond Bow of Pain                               end
+810   G53   Diamond Bow of Phantom                            end
+811   G53   Diamond Stick                                     end
+812   G53   Diamond Stick of Pain                             end
+813   G53   Diamond Stick of Phantom                          end
+814   G56   Ancient Treasure Sword                            end
+815   G56   General's Treasure Sword                          end
+816   G56   Ancient Dynasty's Treasure Sword                  end
+817   G56   Ancient Giant Sword                               end
+818   G56   General's Giant Sword                             end
+819   G56   Ancient Dynasty's Giant Sword                     end
+820   G56   Ancient Tribal Mac's Bow                          end
+821   G56   General of Ancient Tribal Mac's Bow               end
+822   G56   Ancient Dynasty of Tribal Mac's Bow               end
+823   G56   Ancient Stick                                     end
+824   G56   General's Stick                                   end
+825   G56   Ancient Dynasty's Stick                           end
+826   G50   Diamond Scaled Armor                              end
+827   G50   Diamond Scaled Helmet                             end
+828   G50   Diamond Scaled Gloves                             end
+829   G50   Diamond Scaled Shoes                              end
+830   G50   Diamond Scaled Shorts                             end
+831   G50   Diamond Armor                                     end
+832   G50   Diamond Helmet                                    end
+833   G50   Diamond Gloves                                    end
+834   G50   Diamond Shoes                                     end
+835   G50   Diamond Shorts                                    end
+836   G50   White DaeChangEau                                 end
+837   G50   White DaeChangEau Hair Decoration                 end
+838   G50   White DaeChangEau Gloves                          end
+839   G50   White DaeChangEau Shoes                           end
+840   G50   White DaeChangEau Shorts                          end
+841   G55   Scaled Armor of Doggebi                           end
+842   G55   Scaled Helmet of Doggebi                          end
+843   G55   Scaled Gloves of Doggebi                          end
+844   G55   Scaled Shoes of Doggebi                           end
+845   G55   Scaled Shorts of Doggebi                          end
+846   G55   Armor of Doggebi                                  end
+847   G55   Helmet of Doggebi                                 end
+848   G55   Gloves of Doggebi                                 end
+849   G55   Shoes of Doggebi                                  end
+850   G55   Shorts of Doggebi                                 end
+851   G55   DaeChangEau of Doggebi                            end
+852   G55   Hair Decoration of Doggebi                        end
+853   G55   DaeChangEau Gloves of Doggebi                     end
+854   G55   DaeChangEau Shoes of Doggebi                      end
+855   G55   DaeChangEau Shorts of Doggebi                     end
+856   G59   Treasure Sword of Doggebi                         end
+857   G59   Treasure Sword of High Class Doggebi              end
+858   G59   Treasure Sword of Doggebi Lord                    end
+859   G59   Giant Sword of Doggebi                            end
+860   G59   Giant Sword of High Class Doggebi                 end
+861   G59   Giant Sword of Doggebi Lord                       end
+862   G59   Bow of Doggebi                                    end
+863   G59   Bow of High Class Doggebi                         end
+864   G59   Bow of Doggebi Lord                               end
+865   G59   Stick of Doggebi                                  end
+866   G59   Stick of High Class Doggebi                       end
+867   G59   Stick of Doggebi Lord                             end
+868         rice cake soup                                    [event item]#nhealth is increased by 500#nbut this item will disappear after the event.
+869         honey rice cake                                   [event item]#nfor 30 mins health is increased by 5.#nbut this item will disappear after the event.
+870         sesame rice cake                                  [event item]#nfor 30 mins wisdom is increased by 5.#nbut this item will disappear after the event.
+871         green pepper cake                                 [event item]#nfor 30 mins power is increased by 3.#nbut this item will disappear after the event.
+872         ENGean leek cake                                  [event item]#nfor 30 mins agility is increased by 3.#nbut this item will disappear after the event.
+873         ENGean fire cake                                  [event item]#nfor 30 mins intelligence is increased by 3.#nbut this item will disappear after the event.
+874         ENGean green bean cake                            [event item]#nfor 30 mins target ability is increased by 3.#nbut this item will disappear after the event.
+875         gu-jul pan cake                                   [event item]#nfor 1 hr aiming ability is increased by 5.#nonly if the opponent is a monster #nbut this item will disappear after the event.
+876         marignated steamed rib-eye                        [event item]#nfor 1 hr final attacking level(physical/magical
+877         freash pan cake                                   [event item]#nfor 1 hr final damage loss is decreased by 7%.#nonly if the opponent is a monster #nbut this item will disappear after the event.
+878         balck sesame food                                 [event item]#nfor 1 hr fighting ability is increased by 3%.#nonly if the opponent is a monsteronly if the opponent is a monster #nbut this item will disappear after the event.
+879         Artillery Flag                                    Artillery skill can be used for 2 hours.#nThis only can be used during the Castle Siege.
+880         Blue Dragon Cannon                                This is more powerful than a White Tiger Cannon.#nThis can be set up to 3 times.
+881         Blue Dragon Cannon                                This is more powerful than a White Tiger Cannon.#nThis can be set up twice.
+882         Blue Dragon Cannon                                This is more powerful than a White Tiger Cannon.#nThis can be set up once.
+883         Red Bird Cannon                                   This is less powerful than a White Tiger Cannon.#nBut the firing speed is much faster.#nThis can be set up to 4 times.
+884         Red Bird Cannon                                   This is less powerful than a White Tiger Cannon.#nBut the firing speed is much faster.#nThis can be set up to 3 times.
+885         Red Bird Cannon                                   This is less powerful than a White Tiger Cannon.#nBut the firing speed is much faster.#nThis can be set up twice.
+886         Red Bird Cannon                                   This is less powerful than a White Tiger Cannon.#nBut the firing speed is much faster.#nThis can be set up once.
+887         Artillery Flag                                    [test server]#nfor 2 hours you get the effect of learning shooting skills.#nthis is only possible to use when there is a war announcement.
+888         Blue Dragon Cannon                                [test server]#nthis is a higher weapon of white tiger beechun.#nthis has great mass destruction.#nyou can install 3 times.
+889         Blue Dragon Cannon                                [test server]#nthis is a higher weapon of white tiger beechun.#nthis has great mass destruction.#nyou can install 2 times.
+890         Blue Dragon Cannon                                [test server]#nthis is a higher weapon of white tiger beechun.#nthis has great mass destruction.#nyou can install 1 times.
+891         Red Bird Cannon                                   [test server]#nthis is a higher weapon of white tiger beechun.#nthis has great mass destruction.#nyou can install 4 times.
+892         Red Bird Cannon                                   [test server]#nthis is a higher weapon of white tiger beechun.#nthis has great mass destruction.#nyou can install 3 times.
+893         Red Bird Cannon                                   [test server]#nthis is a higher weapon of white tiger beechun.#nthis has great mass destruction.#nyou can install 3 times.
+894         Red Bird Cannon                                   [test server]#nthis is a higher weapon of white tiger beechun.#nthis has great mass destruction.#nyou can install 1 times.
+895         Stone of Shadow                                   A precious stone that is rarely found#nits value is more than a gem.#nIt also can be used on mixing weapons.
+896         Stone of Holy                                     A precious stone that is rarely found#nits value is more than a gem.#nIt also can be used on mixing weapons.
+897         Stone of Flame                                    A precious stone that is rarely found#nits value is more than a gem.#nIt also can be used on mixing weapons.
+898         Stone of Ice                                      A precious stone that is rarely found#nits value is more than a gem.#nIt also can be used on mixing weapons.
+899         Stone of Lightening                               A precious stone that is rarely found#nits value is more than a gem.#nIt also can be used on mixing weapons.
+900         Stone of Poison                                   A precious stone that is rarely found#nits value is more than a gem.#nIt also can be used on mixing weapons.
+901         Stone of Paralysis                                A precious stone that is rarely found#nits value is more than a gem.#nIt also can be used on mixing weapons.
+902         Stone of Strength                                 A precious stone that is rarely found#nits value is more than a gem.#nIt also can be used on mixing weapons.
+903         Stone of Skill                                    A precious stone that is rarely found#nits value is more than a gem.#nIt also can be used on mixing weapons.
+904         Stone of Mystery                                  This is best gem among all other precious stones.#nits value is more than a gem.#nIt also can be used on mixing weapons.
+905         Stone of Demon's Blood                            This is best gem among all other precious stones.#nits value is more than a gem.#nIt also can be used on mixing weapons.
+906         Demon's Sword                                     It's collected from the battle field.#nThis can't be used by humans.#nBut it can be used on mixing weapons.
+909         Germany                                           [Event Item]#nThis is an Event Item#nThis item will be deleted after the event
+910         Costa Rica                                        [Event Item]#nThis is an Event Item#nThis item will be deleted after the event
+911         Poland                                            [Event Item]#nThis is an Event Item#nThis item will be deleted after the event
+912         Ecuador                                           [Event Item]#nThis is an Event Item#nThis item will be deleted after the event
+913         England                                           [Event Item]#nThis is an Event Item#nThis item will be deleted after the event
+914         Paraguay                                          [Event Item]#nThis is an Event Item#nThis item will be deleted after the event
+915         Sweden                                            [Event Item]#nThis is an Event Item#nThis item will be deleted after the event
+916         Trinidad and Tobago                               [Event Item]#nThis is an Event Item#nThis item will be deleted after the event
+917         Argentina                                         [Event Item]#nThis is an Event Item#nThis item will be deleted after the event
+918         Cote d`Ivoire                                     [Event Item]#nThis is an Event Item#nThis item will be deleted after the event
+919         Serbia and Montenegro                             [Event Item]#nThis is an Event Item#nThis item will be deleted after the event
+920         Holland                                           [Event Item]#nThis is an Event Item#nThis item will be deleted after the event
+921         Mexico                                            [Event Item]#nThis is an Event Item#nThis item will be deleted after the event
+922         Iran                                              [Event Item]#nThis is an Event Item#nThis item will be deleted after the event
+923         Angola                                            [Event Item]#nThis is an Event Item#nThis item will be deleted after the event
+924         Portugal                                          [Event Item]#nThis is an Event Item#nThis item will be deleted after the event
+925         Italy                                             [Event Item]#nThis is an Event Item#nThis item will be deleted after the event
+926         Ghana                                             [Event Item]#nThis is an Event Item#nThis item will be deleted after the event
+927         United States of America                          [Event Item]#nThis is an Event Item#nThis item will be deleted after the event
+928         Czech Republic                                    [Event Item]#nThis is an Event Item#nThis item will be deleted after the event
+929         Brazil                                            [Event Item]#nThis is an Event Item#nThis item will be deleted after the event
+930         Croatia                                           [Event Item]#nThis is an Event Item#nThis item will be deleted after the event
+931         Australia                                         [Event Item]#nThis is an Event Item#nThis item will be deleted after the event
+932         Japan                                             [Event Item]#nThis is an Event Item#nThis item will be deleted after the event
+933         France                                            [Event Item]#nThis is an Event Item#nThis item will be deleted after the event
+934         Switzerland                                       [Event Item]#nThis is an Event Item#nThis item will be deleted after the event
+935         Togo                                              [Event Item]#nThis is an Event Item#nThis item will be deleted after the event
+936         Republic of ENGea                                 [Event Item]#nThis is an Event Item#nThis item will be deleted after the event
+937         Spain                                             [Event Item]#nThis is an Event Item#nThis item will be deleted after the event
+938         Ukraine                                           [Event Item]#nThis is an Event Item#nThis item will be deleted after the event
+939         Tunisia                                           [Event Item]#nThis is an Event Item#nThis item will be deleted after the event
+940         Saudi Arabia                                      [Event Item]#nThis is an Event Item#nThis item will be deleted after the event
+941   G40   ChulTae Bow                                       end
+942         Bead of Fire                                      It belongs to the god of fire.#nMyterious power will be shown when it equipped on the armor.
+943         [ A ]                                             [Event Item]#nThis is an Event Item#nThis item will be deleted after the event ends
+944         [ B ]                                             [Event Item]#nThis is an Event Item#nThis item will be deleted after the event ends
+945         [ C ]                                             [Event Item]#nThis is an Event Item#nThis item will be deleted after the event ends
+946         [ E ]                                             [Event Item]#nThis is an Event Item#nThis item will be deleted after the event ends
+947         [ H ]                                             [Event Item]#nThis is an Event Item#nThis item will be deleted after the event ends
+948         [ I ]                                             [Event Item]#nThis is an Event Item#nThis item will be deleted after the event ends
+949         [ K ]                                             [Event Item]#nThis is an Event Item#nThis item will be deleted after the event ends
+950         [ L ]                                             [Event Item]#nThis is an Event Item#nThis item will be deleted after the event ends
+951         [ M ]                                             [Event Item]#nThis is an Event Item#nThis item will be deleted after the event ends
+952         [ N ]                                             [Event Item]#nThis is an Event Item#nThis item will be deleted after the event ends
+953         [ O ]                                             [Event Item]#nThis is an Event Item#nThis item will be deleted after the event ends
+954         [ R ]                                             [Event Item]#nThis is an Event Item#nThis item will be deleted after the event ends
+955         [ S ]                                             [Event Item]#nThis is an Event Item#nThis item will be deleted after the event ends
+956         [ U ]                                             [Event Item]#nThis is an Event Item#nThis item will be deleted after the event ends
+992         Artisan's Fixing Tool                             Artisan's Fixing Tool#The damaged item can be repaired #n its endurance by 5 points.
+993         Doggebi's Fixing Tool                             Doggebi's Fixing Tool#nThe damaged item can be fully repaired#nBut its endurance can be down to 1#nAnd the item will be destroyed if using it when its endurance is lower than 4.
+994         Smile Pumpkin Head                                This Pumpkin Head item is for Halloween.#nThis item will be deleted after the event ends.
+995         Sword Pumpkin Head                                This Pumpkin Head item is for Halloween.#nThis item will be deleted after the event ends.
+996         Axe Pumpkin Head                                  This Pumpkin Head item is for Halloween.#nThis item will be deleted after the event ends.
+997         Purple Witch Hat                                  This Witch Hat item is for Halloween.#nThis item will be deleted after the event ends.
+998         Green Witch Hat                                   This Witch Hat item is for Halloween.#nThis item will be deleted after the event ends.
+999         Blue Witch Hat                                    This Witch Hat item is for Halloween.#nThis item will be deleted after the event ends.
+1000        Normal Ghost Cloth                                This Ghost Cloth item is for Halloween.#nThis item will be deleted after the event ends.
+1001        Ghost Cloth with Bolts                            This Ghost Cloth item is for Halloween.#nThis item will be deleted after the event ends.
+1002        Ghost Cloth with Straw                            This Ghost Cloth item is for Halloween.#nThis item will be deleted after the event ends.
+1003        Candy                                             [Event Item]#nRecovers your HP by 400 points#nThis item will be deleted after the event ends.
+1004        Lollipop                                          [Event Item]#nRecovers your HP by 500 points#nThis item will be deleted after the event ends.
+1005        Cotton Candy                                      [Event Item]#nRecovers your HP by 10% of your total HP#nThis item will be deleted after the event ends.
+1006        Candy Basket                                      [Event Item]#nRecovers your HP by 25% of your total HP#nThis item will be deleted after the event ends.
+1007        Milk Chocolate                                    [Event Item]#nPhysical attacking power is increased by 10% for 10 minutes.#nThis item will be deleted after the event ends.
+1008        Heart Chocolate                                   [Event Item]#nMagical attacking power is increased by 10% for 10 minutes.#nThis item will be deleted after the event ends.
+1009        Smile Pumpkin Head                                This Pumpkin Head item is for Halloween.#nThis item will be deleted after the event ends.
+1010        Sword Pumpkin Head                                This Pumpkin Head item is for Halloween.#nThis item will be deleted after the event ends.
+1011        Axe Pumpkin Head                                  This Pumpkin Head item is for Halloween.#nThis item will be deleted after the event ends.
+1012        Purple Witch Hat                                  This Witch Hat item is for Halloween.#nThis item will be deleted after the event ends.
+1013        Green Witch Hat                                   This Witch Hat item is for Halloween.#nThis item will be deleted after the event ends.
+1014        Blue Witch Hat                                    This Witch Hat item is for Halloween.#nThis item will be deleted after the event ends.
+1015        Normal Ghost Cloth                                This Ghost Cloth item is for Halloween.#nThis item will be deleted after the event ends.
+1016        Ghost Cloth with Bolts                            This Ghost Cloth item is for Halloween.#nThis item will be deleted after the event ends.
+1017        Ghost Cloth with Straw                            This Ghost Cloth item is for Halloween.#nThis item will be deleted after the event ends.
+1019        Robe of the Fairy                                 [Event Item]#nYou may fly to your friend by using this item.#nIt'll be deleted after the event ends.
+1020        Loom                                              [Event Item]#nGive one loom and 5 hemp clothes to the 'sady Who Makes the Robe of the Fairy's#nand you'sl get the Robe of the fairy.#nIt'll be deleted after the event ends.
+1021        Hemp Cloth                                        [Event Item]#nGive one loom and 5 hemp clothes to the 'sady Who Makes the Robe of the Fairy's#nand you'sl get the Robe of the fairy.#nIt'll be deleted after the event ends.
+1022        Crystal                                           [Event Item]#nThis is an event item.#nWhen 1000 of them are collected, the wish will be granted.#nThis item will be deleted after the event ends.
+1023        Golden Bell                                       [Event Item]#nIt's an event item.#nYou may decorate Christmas Tree with it. #nThis item will be deleted after the event ends.
+1024        Golden Star                                       [Event Item]#nIt's an event item.#nYou may decorate Christmas Tree with it. #nThis item will be deleted after the event ends.
+1025        Wreath                                            [Event Item]#nIt's an event item.#nYou may decorate Christmas Tree with it. #nThis item will be deleted after the event ends.
+1028        Upgraded Model of Tower                           It's an upgraded model of tower.#nIf this strong magic that is casted on the mode,#ntower can be more stronger.
+1029        Bead of Fire                                      It belongs to the god of fire.#nMyterious power will be shown when it equipped on the armor.
+1030        Christmas cake                                    [Event Item]#nRecovers your HP by 500 points.
+1031        Turkey meat                                       [Event Item]#nFinal striking power(physical
+1032        Christmas pudding                                 [Event Item]#nExplosive Blow percentage is increased by 3% for 30 minutes.
+1033        Mince pie                                         [Event Item]#nFinal On Target Point is increased by 5% for 30 minutes.
+1034        Christmas wine                                    [Event Item]#nFatal attack percentage is increased by 5% for 30 minutes.
+1035        Upgraded Model of Tower                           It's an upgraded model of tower.#nIf this strong magic that is casted on the mode,#ntower can be more stronger.
+1036        Mask for Knight                                   You can be an Assassin(PK will be enabled
+1037        Mask for Archer                                   You can be an Assassin(PK will be enabled
+1038        Mask for Magician                                 You can be an Assassin(PK will be enabled
+1039        Ring of Excessiveness                             It's a royal gift for the trainers.#nIncrease the Strength and the Agility. Enchanting is not possible.#nIt can be bought with Reward points.
+1040        Necklace of Excessiveness                         It's a royal gift for the trainers.#nIncrease the Strength and the Agility. Enchanting is not possible.#nIt can be bought with Reward points.
+1041        Ring of Vigor                                     It's a royal gift for the trainers.#nIncrease the Strength and the Health. Enchanting is not possible.#nIt can be bought with Reward points.
+1042        Necklace of Vigor                                 It's a royal gift for the trainers.#nIncrease the Strength and the Health. Enchanting is not possible.#nIt can be bought with Reward points.
+1043        Ring of Explosion                                 It's a royal gift for the trainers.#nIncrease the Strength and the Intelegence. Enchanting is not possible.#nIt can be bought with Reward points.
+1044        Necklace of Explosion                             It's a royal gift for the trainers.#nIncrease the Strength and the Intelegence. Enchanting is not possible.#nIt can be bought with Reward points.
+1045        Ring of Courage                                   It's a royal gift for the trainers.#nIncrease the Strength and the Wisdom. Enchanting is not possible.#nIt can be bought with Reward points.
+1046        Necklace of Courage                               It's a royal gift for the trainers.#nIncrease the Strength and the Wisdom. Enchanting is not possible.#nIt can be bought with Reward points.
+1047        Ring of Wisdom                                    It's a royal gift for the trainers.#nIncrease the Intelegence and the Wisdom. Enchanting is not possible.#nIt can be bought with Reward points.
+1048        Necklace of Wisdom                                It's a royal gift for the trainers.#nIncrease the Intelegence and the Wisdom. Enchanting is not possible.#nIt can be bought with Reward points.
+1049        Ring of Knowledge                                 It's a royal gift for the trainers.#nIncrease the Intelegence and the Health. Enchanting is not possible.#nIt can be bought with Reward points.
+1050        Necklace of Knowledge                             It's a royal gift for the trainers.#nIncrease the Intelegence and the Health. Enchanting is not possible.#nIt can be bought with Reward points.
+1051        Ring of Quickness                                 It's a royal gift for the trainers.#nIncrease the Intelegence and the Agility. Enchanting is not possible.#nIt can be bought with Reward points.
+1052        Necklace of Quickness                             It's a royal gift for the trainers.#nIncrease the Intelegence and the Agility. Enchanting is not possible.#nIt can be bought with Reward points.
+1053        Ring of Meditation                                It's a royal gift for the trainers.#nIncrease the Wisdom and the Agility. Enchanting is not possible.#nIt can be bought with Reward points.
+1054        Necklace of Meditation                            It's a royal gift for the trainers.#nIncrease the Wisdom and the Agility. Enchanting is not possible.#nIt can be bought with Reward points.
+1055        Ring of Maturity                                  It's a royal gift for the trainers.#nIncrease the Health and the Agility. Enchanting is not possible.#nIt can be bought with Reward points.
+1056        Necklace of Maturity                              It's a royal gift for the trainers.#nIncrease the Health and the Agility. Enchanting is not possible.#nIt can be bought with Reward points.
+1057        Hermit's Ring                                     It's a ring that is used by Hermit. #nEnchanting is possible with Honor Talismans.#nIt can be bought with Reward points.
+1058        Hermit's Necklace                                 It's a necklace that is used by Hermit. #nEnchanting is possible with Honor Talismans.#nIt can be bought with Reward points.
+1059        Honor Talisman  [Strength]                        It's a talisman that can be used on Hermit's Ring/Necklace for enchanting.#nIt only can be used on Hermit's Ring/Necklace and it increase the Strength.#nWhen other honor talismans is used, status will be chabged to the specific status.
+1060        Honor Talisman [Agility]                          It's a talisman that can be used on Hermit's Ring/Necklace for enchanting.#nIt only can be used on Hermit's Ring/Necklace and it increase the Agility.#nWhen other honor talismans is used, status will be chabged to the specific status.
+1061        Honor Talisman [Intelegence]                      It's a talisman that can be used on Hermit's Ring/Necklace for enchanting.#nIt only can be used on Hermit's Ring/Necklace and it increase the Intelegence.#nWhen other honor talismans is used, status will be chabged to the specific status.
+1062        Hermit's Water                                    Hermit's Water will protect the Hermit's Ring/Necklace from destroying.#nIt can't be used on any other items.
+1063        Skill Book [Weapon Mastery]                       By the order of the king, [Weapon Mastery] is improved.#nThe grade of [Weapon Mastery] is increased from 20 to 21.#nIt can be bought with Reward points.
+1064        High Skill Book [Weapon Mastery]                  By the order of the king, [Weapon Mastery] is much improved.#nThe grade of [Weapon Mastery] is increased from 21 to 22.#nIt can be bought with Reward points.
+1065        Skill Book [Critical Hit]                         By the order of the king, [Critical Hit] is improved.#nThe grade of [Critical Hit] is increased from 15 to 16.#nIt can be bought with Reward points.
+1066        High Skill Book [Critical Hit]                    By the order of the king, [Critical Hit] is much improved.#nThe grade of [Critical Hit] is increased from 16 to 17.#nIt can be bought with Reward points.
+1067        Skill Book [Increasing Concentration]             By the order of the king, [Increasing Concentration] is improved.#nThe grade of [Increasing Concentration] is increased from 1 to 2.#nIt can be bought with Reward points.
+1068        Skill Book [Defense]                              By the order of the king, [Defense] is improved.#nThe grade of [Defense] is increased from 15 to 16.#nIt can be bought with Reward points.
+1069        High Skill Book [Defense]                         By the order of the king, [Defense] is much improved.#nThe grade of [Defense] is increased from 16 to 17.#nIt can be bought with Reward points.
+1070        Skill Book [Bow Mastery]                          By the order of the king, [Bow Mastery] is improved.#nThe grade of [Bow Mastery] is increased from 10 to 11.#nIt can be bought with Reward points.
+1071        High Skill Book [Bow Mastery]                     By the order of the king, [Bow Mastery] is much improved.#nThe grade of [Bow Mastery] is increased from 11 to 12.#nIt can be bought with Reward points.
+1072        Skill Book [Fatal Blow]                           By the order of the king, [Critical Hit] is improved.#nThe grade of [Critical Hit] is increased from 15 to 16.#nIt can be bought with Reward points.
+1073        High Skill Book [Fatal Blow]                      By the order of the king, [Critical Hit] is much improved.#nThe grade of [Critical Hit] is increased from 16 to 17.#nIt can be bought with Reward points.
+1074        Skill Book [Concentration]                        By the order of the king, [Concentration] is improved.#nThe grade of [Concentration] is increased from 10 to 11.#nIt can be bought with Reward points.
+1075        High Skill Book [Concentration]                   By the order of the king, [Concentration] is much improved.#nThe grade of [Concentration] is increased from 11 to 12.#nIt can be bought with Reward points.
+1076        Skill Book [Perfect Evasion]                      By the order of the king, [Perfect Evasion] is improved.#nThe grade of [Perfect Evasion] is increased from 10 to 11.#nIt can be bought with Reward points.
+1077        High Skill Book [Perfect Evasion]                 By the order of the king, [Perfect Evasion] is much improved.#nThe grade of [Perfect Evasion] is increased from 11 to 12.#nIt can be bought with Reward points.
+1078        Skill Book [Magic Mastery : Lightning]            By the order of the king, [Magic Mastery : Lightning] is improved.#nThe grade of [Magic Mastery : Lightning] is increased from 5 to 6.#nIt can be bought with Reward points.
+1079        High Skill Book [Magic Mastery : Lightning]       By the order of the king, [Magic Mastery : Lightning] is much improved.#nThe grade of [Magic Mastery : Lightning] is increased from 6 to 7.#nIt can be bought with Reward points.
+1080        Skill Book [Magic Mastery : Ice]                  By the order of the king, [Magic Mastery : Ice] is improved.#nThe grade of [Magic Mastery : Ice] is increased from 5 to 6.#nIt can be bought with Reward points.
+1081        High Skill Book [Magic Mastery : Ice]             By the order of the king, [Magic Mastery : Ice] is much improved.#nThe grade of [Magic Mastery : Ice] is increased from 6 to 7.#nIt can be bought with Reward points.
+1082        Skill Book [Magic Mastery  : Fire]                By the order of the king, [Magic Mastery : Fire] is improved.#nThe grade of [Magic Mastery : Fire] is increased from 5 to 6.#nIt can be bought with Reward points.
+1083        High Skill Book [Magic Mastery  : Fire]           By the order of the king, [Magic Mastery : Fire] is much improved.#nThe grade of [Magic Mastery : Fire] is increased from 6 to 7.#nIt can be bought with Reward points.
+1084        Skill Book [Meditation]                           By the order of the king, [Meditation] is improved.#nThe grade of [Meditation] is increased from 3 to 4.#nIt can be bought with Reward points.
+1085        High Skill Book [Meditation]                      By the order of the king, [Meditation] is much improved.#nThe grade of [Meditation] is increased from 6 to 7.#nIt can be bought with Reward points.
+1086        Skill Book [Revival]                              By the order of the king, [Revival] is improved.#nThe grade of [Revival] is increased from 1 to 2.#nIt can be bought with Reward points.
+1087        Skill Book [Defensive incantation 6]              By the order of the king, [Defensive incantation 6] is developed. #nIt's next step of [Defensive incantation 5].#nIt can be bought with Reward points.
+1088  G55   Ghost Shaped Steel Shield                         Spirit of Doggebi is sealed its shield.#nIt's been discovered when the Training Area for Warrior of Sky is discovered.#nIt can be bought with Reward points.
+1092        Ring of Sage                                      It's a royal gift for the trainers.#nIncrease the Wisdom and the Health. Enchanting is not possible.#nIt can be bought with Reward points.
+1093        Necklace of Sage                                  It's a royal gift for the trainers.#nIncrease the Wisdom and the Health. Enchanting is not possible.#nIt can be bought with Reward points.
+1094        Honor Talisman [Wisdom]                           It's a talisman that can be used on Hermit's Ring/Necklace for enchanting.#nIt only can be used on Hermit's Ring/Necklace and it increase the Wisdom.#nWhen other honor talismans is used, status will be chabged to the specific status.
+1095        Honor Talisman [Health]                           It's a talisman that can be used on Hermit's Ring/Necklace for enchanting.#nIt only can be used on Hermit's Ring/Necklace and it increase the Health.#nWhen other honor talismans is used, status will be chabged to the specific status.
+1096        [ A ]                                             [Event Item]#nThis is an Event Item#nThis item will be deleted after the event ends.
+1097        [ C ]                                             [Event Item]#nThis is an Event Item#nThis item will be deleted after the event ends.
+1098        [ D ]                                             [Event Item]#nThis is an Event Item#nThis item will be deleted after the event ends.
+1099        [ E ]                                             [Event Item]#nThis is an Event Item#nThis item will be deleted after the event ends.
+1100        [ F ]                                             [Event Item]#nThis is an Event Item#nThis item will be deleted after the event ends.
+1101        [ H ]                                             [Event Item]#nThis is an Event Item#nThis item will be deleted after the event ends.
+1102        [ I ]                                             [Event Item]#nThis is an Event Item#nThis item will be deleted after the event ends.
+1103        [ L ]                                             [Event Item]#nThis is an Event Item#nThis item will be deleted after the event ends.
+1104        [ N ]                                             [Event Item]#nThis is an Event Item#nThis item will be deleted after the event ends.
+1105        [ O ]                                             [Event Item]#nThis is an Event Item#nThis item will be deleted after the event ends.
+1106        [ S ]                                             [Event Item]#nThis is an Event Item#nThis item will be deleted after the event ends.
+1107        [ T ]                                             [Event Item]#nThis is an Event Item#nThis item will be deleted after the event ends.
+1108        [ V ]                                             [Event Item]#nThis is an Event Item#nThis item will be deleted after the event ends.
+1109        [ Y ]                                             [Event Item]#nThis is an Event Item#nThis item will be deleted after the event ends.
+1110        Present Boxes                                     [Event Item]#nThis is an Event Item#nMore you have these, more useful item you can get.
+1113  G63                                                     
+1114  G63                                                     
+1115  G63                                                     
+1116  G63                                                     
+1117        Portable Bomb                                     It's a portable bomb. #nIt only can be used in Protecting Leader Training Area.#nLeader doesn't get any damage with this bomb.
+1118        Doggebi's Certificate(1                           It certifies that you were in the training area. #nYou can get honor points if you bring this to #nthe General who collects the Doggebi's certificate.#nHe's near by Doggebi Tower.
+1119        Doggebi's Certificate(3                           It certifies that you were in the training area. #nYou can get honor points if you bring this to #nthe General who collects the Doggebi's certificate.#nHe's near by Doggebi Tower.
+1120        Doggebi's Certificate(5                           It certifies that you were in the training area. #nYou can get honor points if you bring this to #nthe General who collects the Doggebi's certificate.#nHe's near by Doggebi Tower.
+1121        Doggebi's Certificate(10                          It certifies that you were in the training area. #nYou can get honor points if you bring this to #nthe General who collects the Doggebi's certificate.#nHe's near by Doggebi Tower.
+1122        Scroll of Invincibility                           Making all attacks ineffectively from your enemies for 10seconds.#nUsed by guild leader in Protecting Leader Training area only.
+1123        Scroll of Moving to the Leader                    When it used, you'sl teleport to your leader.#nUsed by guild members in Protecting Leader Training area only.
+1124  G60   Golden Scaled Armor                               end
+1125  G60   Golden Scaled Armor Helmet                        end
+1126  G60   Golden Scaled Armor Gloves                        end
+1127  G60   Golden Scaled Armor Shoes                         end
+1128  G60   Golden Scaled Armor Shorts                        end
+1129  G60   Golden Armor                                      end
+1130  G60   Golden Armor Helmet                               end
+1131  G60   Golden Armor Gloves                               end
+1132  G60   Golden Armor Shoes                                end
+1133  G60   Golden Armor Skirts                               end
+1134  G60   Golden DaeChangEau                                end
+1135  G60   Golden DaeChangEau Hair Decoration                end
+1136  G60   Golden DaeChangEau Gloves                         end
+1137  G60   Golden DaeChangEau Shoes                          end
+1138  G60   Golden DaeChangEau Shorts                         end
+1139        Stone of EXP - 15 days                            Gathering of EXP from monsters is increased by 30%.#n[This item is good for 15 days.]
+1140        Stone of Wealth - 15 days                         Gathering of money from monsters is increased by 20%.#nBut it's not effective when you're in a party.#nIt only effects to the one who used.#n[This item is good for 15 days.]
+1141        Stone of Fishery - 15 days                        Speed of fishery is increased by 50%.#n[This item is good for 15 days.]
+1142        Potion of Tiger Claws                             1 Hour#nStrength is increased by 5
+1143        Potion of Bear Skin                               1 Hour#nHealth is increased by 10
+1144        Potion of Wisdom                                  1 Hour#nIntelligence is increased by 5
+1145        Potion of Foresight                               1 Hour#nWisdom is increased by 10
+1146        Potion of Eagle Wings                             1 Hour#nAgility is increased by 5
+1147        High-Grade Scroll of Rebirth                      You can revive from the place.#nwhere you got killed without any EXP loss.
+1148        Saving Scroll of Location                         Save the current location.#nOnce it saved, it keeps forever#nand you can use the Moving Scroll of Location to teleport.#nPress [.] button for saving location.
+1149        Moving Scroll of Location                         You need Moving Scroll of Location #nto teleport to the saved loction.#nIt cosumes 1 Moving Scroll of Location for each time you teleport.#nPress [.] button to teleport.
+1150        Scroll of Power Improvement                       1 Hour#nFinal striking power(physical/magical
+1151        Scroll of Damage Reduction                        1 Hour#nFinal damage from the monster is decreased by 10%.
+1152        Explosive Blow Improvement                        1 Hour#nActivity of Explosive Blow percentage is increased by 5%.
+1153        Scroll of Accuracy Improvement                    1 Hour#nFinal On Target Point is increased by 10.
+1154        Scroll of Evasion Improvement                     1 Hour#nFinal Evasion Point is increased by 5.
+1155        Scroll of Perfect Defense                         500 Times#nAbsorbing the whole enemy's attack with 10% activity percentage.#nIt consumes one whenever the absorbing is activated.
+1156        Scroll of HP Absorption                           500 Times#nDraining the enemy's HP as much as your damage to the enemy#nwith 10% activity percentage.#nIt consumes one whenever the absorbing is activated.
+1157        Stone of Birth                                    Give this stone to the Prophet#nfor getting a chance #n to reset your status point.
+1158        Stone of Chance                                   Give this stone to the Prophet#nfor getting a chance #n to reset your skill point.
+1159        Polishing Stone                                   When it used on an item,#nitem won't be destroyed even if it failed to enchant with talisman.
+1160        Horn of Spirit                                    Send your message to all players in the server#nby using the Horn of Spirit.#nUse [/shout content] or [/s content] as a command.
+1161        Lucky Key                                         7 Days#nAdditional item is dropped when opening a Wooden Box.#nShorten the time for opening the Wooden Box.
+1162        Lucky Stone                                       7 Days#nLucky Finish can be executed when in use.#nZamogeons can be dropped from the monsters#nup to 300 times more.
+1163        Name List[Character]                              Character name can be changed for one time.#nBut you only can use it again after 3 weeks once you used.
+1164        Name List[Guild]                                  Guild name can be changed for one time.#nBut you only can use it again after 3 weeks once you used.
+1165        Bead of Fire                                      It belongs to the god of fire.#nMyterious power will be shown when it equipped on the armor.
+1166        Stone of Mystery                                  This is best gem among all other precious stones.#nits value is more than a gem.#nIt also can be used on mixing weapons.
+1167        Stone of Demon's Blood                            This is best gem among all other precious stones.#nits value is more than a gem.#nIt also can be used on mixing weapons.
+1168        Demon's Sword                                     It's collected from the battle field.#nThis can't be used by humans.#nBut it can be used on mixing weapons.
+1169        Stone of EXP - 1 day                              Gathering of EXP from monsters is increased by 30%.#n[This item is good for 1 day.]
+1170        Stone of Wealth - 1 day                           Gathering of money from monsters is increased by 20%.#nBut it's not effective when you're in a party.#nIt only effects to the one who used.#n[This item is good for 1 day.]
+1171        Upgraded Model of Tower                           It's an upgraded model of tower.#nIf this strong magic that is casted on the mode,#ntower can be more stronger.
+1172        Hermit's Water                                    Hermit's Water will protect the Hermit's Ring/Necklace from destroying.#nIt can't be used on any other items.
+1173        Reward for Destructing Key Points                 end
+1174        Reward for Protecting Leader                      end
+1175        Reward for Suffering Valley                       end
+1176        Scroll of Invincibility                           Making all attacks ineffectively from your enemies for 10seconds.#nUsed by guild leader in Protecting Leader Training area only.
+1177        Scroll of Moving to the Leader                    When it used, you'sl teleport to your leader.#nUsed by guild members in Protecting Leader Training area only.
+1178        Certificate of Son of the Sky[1Hr.]               This is a special item that son of the sky has made#nin order to destroy the temple of dragon.#nWhen you use this, you can survive in Poison of the dragon.#nBut, You may not use this more than 10hrs. per day.
+1179        Certificate of Son of the Sky[3Hr.]               This is a special item that son of the sky has made#nin order to destroy the temple of dragon.#nWhen you use this, you can survive in Poison of the dragon.#nBut, You may not use this more than 10hrs. per day.
+1180        Certificate of Son of the Sky[5Hr.]               This is a special item that son of the sky has made#nin order to destroy the temple of dragon.#nWhen you use this, you can survive in Poison of the dragon.#nBut, You may not use this more than 10hrs. per day.
+1181        Lock                                              You can lock this Item.#nLocked items cannot be dropped, sent, sold, #nenchanted, registered, destroyed (stone of revision
+1182        Key                                               You can Unlock your locked item.#nPlease be aware that your key will be consumed#n even though you type incorrect Password.
+1183        Key                                               You can Unlock your locked item.#nPlease be aware that your key will be consumed#n even though you type incorrect Password.
+1184  G60   Golden Scaled Armor                               end
+1185  G60   Golden Scaled Armor Helmet                        end
+1186  G60   Golden Scaled Armor Gloves                        end
+1187  G60   Golden Scaled Armor Shoes                         end
+1188  G60   Golden Scaled Armor Shorts                        end
+1189  G60   Golden Armor                                      end
+1190  G60   Golden Armor Helmet                               end
+1191  G60   Golden Armor Gloves                               end
+1192  G60   Golden Armor Shoes                                end
+1193  G60   Golden Armor Skirts                               end
+1194  G60   Golden DaeChangEau                                end
+1195  G60   Golden DaeChangEau Hair Decoration                end
+1196  G60   Golden DaeChangEau Gloves                         end
+1197  G60   Golden DaeChangEau Shoes                          end
+1198  G60   Golden DaeChangEau Shorts                         end
+1199  G55   Doggebi Scaled Armor                              end
+1200  G55   Doggebi Scaled Armor Helmet                       end
+1201  G55   Doggebi Scaled Armor Gloves                       end
+1202  G55   Doggebi Scaled Armor Shoes                        end
+1203  G55   Doggebi Scaled Armor Shorts                       end
+1204  G55   Armor of Doggebi                                  end
+1205  G55   Helmet of Doggebi                                 end
+1206  G55   Gloves of Doggebi                                 end
+1207  G55   Shoes of Doggebi                                  end
+1208  G55   Shorts of Doggebi                                 end
+1209  G55   DaeChangEau of Doggebi                            end
+1210  G55   Hair Decoration of Doggebi                        end
+1211  G55   DaeChangEau Gloves of Doggebi                     end
+1212  G55   DaeChangEau Shoes of Doggebi                      end
+1213  G55   DaeChangEau Shorts of Doggebi                     end
+1214  G62   Golden Sword                                      end
+1215  G62   Golden Giant sword                                end
+1216  G62   Golden Bow                                        end
+1217  G62   Golden Stick                                      end
+1218  G59   Treasure Sword of Doggebi                         end
+1219  G59   Treasure Sword of High Class Doggebi              end
+1220  G59   Treasure Sword of Doggebi Lord                    end
+1221  G59   Giant Sword of Doggebi                            end
+1222  G59   Giant Sword of High Class Doggebi                 end
+1223  G59   Giant Sword of Doggebi Lord                       end
+1224  G59   Bow of Doggebi                                    end
+1225  G59   Bow of High Class Doggebi                         end
+1226  G59   Bow of Doggebi Lord                               end
+1227  G59   Stick of Doggebi                                  end
+1228  G59   Stick of High Class Doggebi                       end
+1229  G59   Stick of Doggebi Lord                             end
+1230  G56   Ancient Treasure Sword                            end
+1231  G56   General's Treasure Sword                          end
+1232  G56   Ancient Dynasty's Treasure Sword                  end
+1233  G56   Ancient Giant sword                               end
+1234  G56   General's Giant Sword                             end
+1235  G56   Ancient Dynasty's Giant sword                     end
+1236  G56   Ancient Tribal Mac's Bow                          end
+1237  G56   General of Ancient Tribal Mac's Bow               end
+1238  G56   Ancient Dynasty of Tribal Mac's Bow               end
+1239  G56   Ancient Stick                                     end
+1240  G56   General's Stick                                   end
+1241  G56   Ancient Dynasty's Stick                           end
+1242  G60   Golden Scaled Armor                               end
+1243  G60   Golden Scaled Armor Helmet                        end
+1244  G60   Golden Scaled Armor Gloves                        end
+1245  G60   Golden Scaled Armor Shoes                         end
+1246  G60   Golden Scaled Armor Shorts                        end
+1247  G60   Golden Armor                                      end
+1248  G60   Golden Armor Helmet                               end
+1249  G60   Golden Armor Gloves                               end
+1250  G60   Golden Armor Shoes                                end
+1251  G60   Golden Armor Skirts                               end
+1252  G60   Golden DaeChangEau                                end
+1253  G60   Golden DaeChangEau Hair Decoration                end
+1254  G60   Golden DaeChangEau Gloves                         end
+1255  G60   Golden DaeChangEau Shoes                          end
+1256  G60   Golden DaeChangEau Shorts                         end
+1257  G62   Golden Sword                                      end
+1258  G62   Golden Giant sword                                end
+1259  G62   Golden Bow                                        end
+1260  G62   Golden Stick                                      end
+1261  G63   Darkness DaeChangEau Hair Decoration              end
+1262  G63   Darkness Scaled Armor Helmet                      end
+1263        Nail of Dragon                                    [Event Item]This is an item from #nevent.This #nitem will disappear after the event.
+1264        Certificate of Son of the Sky[1Hr.]               This is a special item that son of the sky has made#nin order to destroy the temple of dragon.#nWhen you use this, you can survive in Poison of the dragon.#nBut, You may not use this more than 10hrs. per day.
+1265        Certificate of Son of the Sky[3Hr.]               This is a special item that son of the sky has made#nin order to destroy the temple of dragon.#nWhen you use this, you can survive in Poison of the dragon.#nBut, You may not use this more than 10hrs. per day.
+1266        Certificate of Son of the Sky[5Hr.]               This is a special item that son of the sky has made#nin order to destroy the temple of dragon.#nWhen you use this, you can survive in Poison of the dragon.#nBut, You may not use this more than 10hrs. per day.
+1271        Herring                                           These are Fish that live only in crystal clear water. #n They taste better when bigger.
+1272        Hairy Fish                                        These are Fish that live only in crystal clear water. #n They taste better when bigger.
+1273        Anchovy                                           These are Fish that live only in crystal clear water. #n They taste better when bigger.
+1274        Herring                                           These are Fish that live only in crystal clear water. #n They taste better when bigger.
+1275        Hairy Fish                                        These are Fish that live only in crystal clear water. #n They taste better when bigger.
+1276        Anchovy                                           These are Fish that live only in crystal clear water. #n They taste better when bigger.
+1277        Herring                                           These are Fish that live only in crystal clear water. #n They taste better when bigger.
+1278        Hairy Fish                                        These are Fish that live only in crystal clear water. #n They taste better when bigger.
+1279        Anchovy                                           These are Fish that live only in crystal clear water. #n They taste better when bigger.
+1280        Herring                                           These are Fish that live only in crystal clear water. #n They taste better when bigger.
+1281        Hairy Fish                                        These are Fish that live only in crystal clear water. #n They taste better when bigger.
+1282        Anchovy                                           These are Fish that live only in crystal clear water. #n They taste better when bigger.
+1283        Bamboo                                            This item will be deleted after the event ends.
+1284        Paper                                             This item will be deleted after the event ends.
+1285        String                                            This item will be deleted after the event ends.
+1286        Reel                                              This item will be deleted after the event ends.
+1287        Butterfly Kite                                    This item will be deleted after the event ends.
+1288        Ray Kite                                          This item will be deleted after the event ends.
+1289        Shield Kite                                       This item will be deleted after the event ends.
+1290        Saving Scroll of Location                         Save the current location.#nOnce it saved, it keeps forever#nand you can use the Moving Scroll of Location to teleport.#nPress [.] button for saving location.
+1291        Moving Scroll of Location                         You need Moving Scroll of Location #nto teleport to the saved loction.#nIt cosumes 1 Moving Scroll of Location for each time you teleport.#nPress [.] button to teleport.
+1292        Horn of Spirit                                    Send your message to all players in the server#nby using the Horn of Spirit.#nUse [/shout content] or [/s content] as a command.
+1293        Demon's Sword                                     It's collected from the battle field.#nThis can't be used by humans.#nBut it can be used on mixing weapons.
+1294        Stone of EXP - 1 day                              Gathering of EXP from monsters is increased by 30%.#n[This item is good for 1 day.]
+1295        Stone of Wealth - 1 day                           Gathering of money from monsters is increased by 20%.#nBut it's not effective when you're in a party.#nIt only effects to the one who used.#n[This item is good for 1 day.]
+1296  G60   Golden Scaled Armor Gloves                        end
+1297  G60   Golden Armor Gloves                               end
+1298  G60   Golden DaeChangEau Gloves                         end
+1299  G10   Mission letters                                   Collect 25 Big Handed Inhabitant's dead bodies.
+1300  G12   Mission letters                                   Collect 15 Big Handed Inhabitant's dead bodies.
+1301  G14   Mission letters                                   Collect 10 Deamon soldier's heads.
+1302  G16   Mission letters                                   Collect 10 Demon Throwing Soldier's Heads.
+1303  G17   Mission letters                                   Collect 10 Wild Demon Soldier's Heads.
+1304  G18   Mission letters                                   Collect 10 Demon Shock Trooper's Heads.
+1305  G19   Mission letters                                   Collect 10 Demon Flag Bearer's Heads.
+1306  G20   Mission letters                                   Collect 10 Demon Band's Heads.
+1307  G21   Mission letters                                   Collect 10 Water Dragons' heads.
+1308  G23   Mission letters                                   Collect 10 Demon Armored Knight's Heads.
+1309  G25   Mission letters                                   Collect 10 Crazy Demon Warrior's heads.
+1310  G29   Mission letters                                   Collect 5 Demon Commander's Heads.
+1311  G29   Mission letters                                   Collect 10 Devil Soldier's heads.
+1312  G31   Mission letters                                   Collect 5 Devil Soldier Twin Blades' Heads.
+1313  G32   Mission letters                                   Collect 5 Devil Soldier Bow's Heads.
+1314  G33   Mission letters                                   Collect 5 Devil Soldier Sword's Heads.
+1315  G34   Mission letters                                   Collect 5 Devil Soldier Spear's Heads.
+1316  G42   Mission letters                                   Collect 10 Devil Soldier Sub-boss' Heads.
+1317  G42   Mission letters                                   Collect 5 Devil Soldier Boss' Heads.
+1318        Small Magic Potion                                Recovers Magic Point by 300
+1319        Medium Magic Potion                               Recovers Magic Point by 500
+1320  G60   Golden Shield                                     It's made out of gold. #nOnly the one who get recognized by the king can get this shield.#nIt can be bought with Reward points.
+1321        Pine (The South Gate Restoration Event            This item will disappear when the event is finished.
+1322        Tile (The South Gate Restoration Event            This item will disappear when the event is finished.
+1323        Doggebi Mask                                      This can make you invisible for certain period of time.#nYou will not be able to attack or attacked from#nopponent.
+1324        Encampment Building Scroll                        This is the scroll that has the method of Encampment Building.#nYou will need a wood, a leather and a hammer.#nYou can only use this at Suffering Valley.
+1325        Wood(Encampment Building                          You need materials for Encampment Building.#na wood, a leather and a hammer..
+1326        Leather(Encampment Building Scroll                You need materials for Encampment Building.#na wood, a leather and a hammer..
+1327        Hammer(Encampment Building Scroll                 You need materials for Encampment Building.#na wood, a leather and a hammer..
+1328  G40   Mission letters                                   Collect 50 Devil Troop of Jealousy Masks
+1329  G41   Mission letters                                   Collect 40 Devil Troop of Hatred Masks
+1330  G42   Mission letters                                   Collect 40 Devil Troop of Madness Masks
+1331  G43   Mission letters                                   Collect 45 Devil Troop of Anger Masks
+1332  G44   Mission letters                                   Collect 15 Devil Troop of Absorbing Green Masks
+1333  G45   Mission letters                                   Collect 30 The Cave of The Giant Bird Demon's Heads
+1334  G46   Mission letters                                   Collect 30 Rotten Skeletons of Warrior of the Royal Tomb
+1335  G47   Mission letters                                   Collect 10 Doggebi of Monster Face Fire
+1336  G48   Mission letters                                   Collect 5 Doggebi with a Gong Fire
+1337  G49   Mission letters                                   Collect 20 Drunken Doggebi Fire
+1338  G50   Mission letters                                   Collect 10 Doggebi with a Mask of Black Fire
+1339  G51   Mission letters                                   Collect 10 Doggebi with a Mask of Black Panther Fire
+1340  G52   Mission letters                                   Collect 20 Giant Doggebi Fire
+1341  G53   Mission letters                                   Collect 20 High Class Doggebi with a Gong Fire
+1342  G54   Mission letters                                   Collect 10 The Royal Tobm Keeper's first certificates
+1343  G55   Mission letters                                   Collect 5 High Class Drunken Doggebi  Fire
+1344  G56   Mission letters                                   Collect 10 The Royal Tobm Keeper's second certificates
+1345  G57   Mission letters                                   Collect 5 High Class Doggebi with a Mask of Black Crow Fire
+1346  G58   Mission letters                                   Collect 10 Demon Crack Soldier's heads
+1347  G59   Mission letters                                   Collect 20 Traitor Warrior's Talismans
+1348  G60   Mission letters                                   Collect 20 Chief of Demon Crack Troop's heads
+1349  G60   Mission letters                                   Collect 30 E-Mok Island Blacksmith's rings
+1350  G61   Mission letters                                   Collect 10 Trained Traitor Warrior's Talismans
+1351  G61   Mission letters                                   Collect 30 Small Green E-Moogi's teeth
+1352  G62   Mission letters                                   Collect 5 Monster of Demon Crack Troop's heads
+1353  G62   Mission letters                                   Collect 20 E-Mok Island Sealed Ghost's rings
+1354  G63   Mission letters                                   Collect 5 Guard of the Traitors Hangout's Talismans
+1355  G63   Mission letters                                   Collect 30 Small Brown E-Moogi's teeth
+1356  G64   Mission letters                                   Collect 10 White Beast of Demon Crack Troop's heads
+1357  G64   Mission letters                                   Collect 15 Twisted Green E-Moogi's teeth
+1358  G65   Mission letters                                   Collect 5 Knight of the Traitors Hangout's Talismans
+1359  G65   Mission letters                                   Collect 15 Twisted Brown E-Moogi's teeth
+1360  G66   Mission letters                                   Collect 5 Blue Beast of Demon Crack Troop's heads
+1361  G66   Mission letters                                   Collect 10 Twisted Demon Guarder's heads
+1362  G67   Mission letters                                   Collect 15 Twisted Demon Patrol's heads
+1363  G68   Mission letters                                   Collect 10 Twisted Demon Warrior's heads
+1364  G69   Mission letters                                   Collect 20 Twisted Demon Soldier's heads
+1365  G70   Mission letters                                   Collect 5 Twisted Demon Defender's heads
+1366        Devil Troop of Jealousy Mask                      Devil Troop of Jealousy Mask without Bango's Blood
+1367        Devil Troop of Hatred Mask                        Devil Troop of Hatred Mask without Bango's Blood
+1368        Devil Troop of Madness Mask                       Devil Troop of Madness Mask without Bango's Blood
+1369        Devil Troop of Anger Mask                         Devil Troop of Anger Mask without Bango's Blood
+1370        Devil Troop of Absorbing Green Mask               Devil Troop of Absorbing Green Mask without Bango's Blood
+1371        The Cave of The Giant Bird Demon's Head           The Cave of The Giant Bird Demon's Head
+1372        Rotten Skeleton of Warrior of the Royal Tomb      Rotten Skeleton of Warrior of the Royal Tomb
+1373        Doggebi of Monster Face Fire                      Extinguished Fire of Doggebi of Monster Face
+1374        Doggebi with a Gong Fire                          Extinguished Fire of Doggebi with a Gong
+1375        Drunken Doggebi Fire                              Extinguished Fire of Drunken Doggebi
+1376        Doggebi with a Mask of Black Fire                 Extinguished Fire of Doggebi with a Mask of Black
+1377        Doggebi with a Mask of Black Panther Fire         Extinguished Fire of Doggebi with a Mask of Black Panther
+1378        Giant Doggebi Fire                                Extinguished Fire of Giant Doggebi
+1379        High Class Doggebi with a Gong Fire               Extinguished Fire of High Class Doggebi with a Gong
+1380        The Royal Tobm Keeper's first certificate         The Royal Tobm Keeper's first certificate
+1381        High Class Drunken Doggebi  Fire                  Extinguished Fire of High Class Drunken Doggebi
+1382        The Royal Tobm Keeper's second certificate        The Royal Tobm Keeper's second certificate
+1383        High Class Doggebi with a Mask of Black Crow Fire Extinguished Fire of High Class Doggebi with a Mask of Black Crow
+1384        Demon Crack Soldier's head                        Demon Crack Soldier's head
+1385        Traitor Warrior's Talisman                        Traitor Warrior's Talisman
+1386        Chief of Demon Crack Troop's head                 Chief of Demon Crack Troop's head
+1387        E-Mok Island Blacksmith's rings                   E-Mok Island Blacksmith's rings
+1388        Trained Traitor Warrior's Talisman                Trained Traitor Warrior's Talisman
+1389        Small Green E-Moogi's teeth                       Small Green E-Moogi's sharp tooth
+1390        Monster of Demon Crack Troop's head               Monster of Demon Crack Troop's head
+1391        E-Mok Island Sealed Ghost's ring                  E-Mok Island Sealed Ghost's ring
+1392        Guard of the Traitors Hangout's Talisman          Guard of the Traitors Hangout's Talisman
+1393        Small Brown E-Moogi's teeth                       Small Brown E-Moogi's sharp tooth
+1394        White Beast of Demon Crack Troop's head           White Beast of Demon Crack Troop's head
+1395        Twisted Green E-Moogi's teeth                     Twisted Green E-Moogi's sharp tooth
+1396        Knight of the Traitors Hangout's Talisman         Knight of the Traitors Hangout's Talisman
+1397        Twisted Brown E-Moogi's teeth                     Twisted Brown E-Moogi's tooth
+1398        Blue Beast of Demon Crack Troop's head            Blue Beast of Demon Crack Troop's head
+1399        Twisted Demon Guarder's head                      Twisted Demon Guarder's head
+1400        Twisted Demon Patrol's head                       Twisted Demon Patrol's head
+1401        Twisted Demon Warrior's head                      Twisted Demon Warrior's head
+1402        Twisted Demon Soldier's head                      Twisted Demon Soldier's head
+1403        Twisted Demon Defender's head                     Twisted Demon Defender's head
+1442  G59   Guardian Stick with a Blue Gem                    There's a blue gem on the stick and #nit's for the chairperson of Joong-Bang.#nIt can be bought with the Reward points.
+1443  G59   Imperial Guardian Stick with a Blue Gem           end
+1444  G62   Guardian Stick with a Lotus Flower                There's a lotus flower on the stick and #nit's for the chairperson of Joong-Bang.#nOnly the one who get recognized by the king can get this.#nIt can be bought with the Reward points.
+1445  G62   Imperial Guardian Stick with a Lotus Flower       end
+1446        Doggebi Mask                                      This can make you invisible for certain period of time.#nYou will not be able to attack or attacked from#nopponent.
+1447        Doggebi Mask                                      This can make you invisible for certain period of time.#nYou will not be able to attack or attacked from#nopponent.
+1448  G62   Guardian Sword with a Lotus Flower                There's a lotus flower on the Sword. #nOnly the one who get recognized by the king can get this.#nIt can be bought with the Reward points.
+1449  G62   Guardian Giant sword with a Lotus Flower          There's a lotus flower on the Sword. #nOnly the one who get recognized by the king can get this.#nIt can be bought with the Reward points.
+1450  G62   Guardian Bow with a Lotus Flower                  There's a lotus flower on the Bow. #nOnly the one who get recognized by the king can get this.#nIt can be bought with the Reward points.
+1451  G62   Emperor Guardian Sword with a Lotus Flower        end
+1452  G62   Emperor Guardian Giant sword with a Lotus Flower  end
+1453  G62   Emperor Guardian Bow with a Lotus Flower          end
+1454        Firmamental Pillar                                It's used in the Island of the Battle Field.#nBy Using this pillar, you can conquer 5 key points of the island.
+1455        True Firmamental Pillar                           You can build True Firmamental Pillar which monsters will not attack.
+1456        Strengthening Magic Scroll                        You can strengthen the Firmamental Pillar or True Firmamental Pillar.
+1457        Scroll of Invincibility                           Making all attacks ineffectively from your enemies for 10seconds.#nUsed by guild leader in Protecting Leader Training area only.
+1458        Upgraded Model of Tower                           It's an upgraded model of tower.#nIf this strong magic that is casted on the mode,#ntower can be more stronger.
+1459        True Firmamental Pillar                           You can build True Firmamental Pillar which monsters will not attack.
+1460        Strengthening Magic Scroll                        You can strengthen the Firmamental Pillar or True Firmamental Pillar.
+1461        element of fire                                   The element which composes 'Altar of Fire'.#nThis is the key which sends with their worlds with other elements.
+1462        element of water                                  The element which composes 'Altar of water'.#nThis is the key which sends with their worlds with other elements.
+1463        element of wood                                   The element which composes 'Altar of wood'.#nThis is the key which sends with their worlds with other elements.
+1464        element of iron                                   The element which composes 'Altar of iron'.#nThis is the key which sends with their worlds with other elements.
+1465        element of ground                                 The element which composes 'Altar of ground'.#nThis is the key which sends with their worlds with other elements.
+1466        the purified element of fire                      When gives to 'Sur-An', Will send them with their worlds.
+1467        the purified element of water                     When gives to 'Sur-An', Will send them with their worlds.
+1468        the purified element of wood                      When gives to 'Sur-An', Will send them with their worlds.
+1469        the purified element of iron                      When gives to 'Sur-An', Will send them with their worlds.
+1470        the purified element of ground                    When gives to 'Sur-An', Will send them with their worlds.
+1471        Jea-Ga, letters of introduction                   Letter of introduction.#nConvey in 'Sur-An' where is in 'city of the priest'.
+1472        Recall scroll [For Individual]                    recalls the individual To you.
+1473        Recall scroll [For Party]                         recalls the Party To you.
+1474        Recall scroll [For Guild]                         recalls the Guild To you.
+1475        Recall scroll [For Individual]                    recalls the individual To you.
+1476        Recall scroll [For Party]                         recalls the Party To you.
+1477        Recall scroll [For Guild]                         recalls the Guild To you.
+1478  G65   Blood Dragon's Scaled Armor                       end
+1479  G65   Blood Dragon's Scaled Armor Helmet                end
+1480  G65   Blood Dragon's Scaled Armor Gloves                end
+1481  G65   Blood Dragon's Scaled Armor Shoes                 end
+1482  G65   Blood Dragon's Scaled Armor Shorts                end
+1483  G65   Blood Dragon's Armor                              end
+1484  G65   Blood Dragon's Armor Helmet                       end
+1485  G65   Blood Dragon's Armor Gloves                       end
+1486  G65   Blood Dragon's Armor Shoes                        end
+1487  G65   Blood Dragon's Armor Skirts                       end
+1488  G65   Blood Dragon's DaeChangEau                        end
+1489  G65   Blood Dragon's DaeChangEau Hair Decoration        end
+1490  G65   Blood Dragon's DaeChangEau Gloves                 end
+1491  G65   Blood Dragon's DaeChangEau Shoes                  end
+1492  G65   Blood Dragon's DaeChangEau Shorts                 end
+1493        Necklace of Evil                                  Chief of the Traitor's Hangout, Yoong-Gi's necklace, Use to ingredients of evil.
+1494        Lord's Jaw                                        'Lord of Shadow Troop's Jaw, Use to ingredients of evil.
+1495        Monster's Right Arm                               Demon Monster's Right Arm, Use to ingredients of evil.
+1496        Sword of the Chief Defender                       Twisted Demon Defender's Sword, Use to ingredients of evil.
+1497        Complete E-moogy's Scale                          E-Moogi's Complete E-moogy's Scale . Use to ingredients of evil.
+1498        Horn of Doggebi Lord                              Doggebi Lord's Horn. Use to ingredients of evil.
+1499        Imperfect element of fire                         The element which composes 'Altar of Fire',#nit damaged and seems not available
+1500        Imperfect element of water                        The element which composes 'Altar of water',#nit damaged and seems not available
+1501        Imperfect element of wood                         The element which composes 'Altar of wood',#nit damaged and seems not available
+1502        Imperfect element of iron                         The element which composes 'Altar of iron',#nit damaged and seems not available
+1503        Imperfect element of ground                       The element which composes 'Altar of ground',#nit damaged and seems not available
+1504  G55   Scaled Armor of Doggebi                           end
+1505  G55   Scaled Helmet of Doggebi                          end
+1506  G55   Scaled Gloves of Doggebi                          end
+1507  G55   Scaled Shoes of Doggebi                           end
+1508  G55   Scaled Shorts of Doggebi                          end
+1509  G55   Armor of Doggebi                                  end
+1510  G55   Helmet of Doggebi                                 end
+1511  G55   Gloves of Doggebi                                 end
+1512  G55   Shoes of Doggebi                                  end
+1513  G55   Shorts of Doggebi                                 end
+1514  G55   DaeChangEau of Doggebi                            end
+1515  G55   Hair Decoration of Doggebi                        end
+1516  G55   DaeChangEau Gloves of Doggebi                     end
+1517  G55   DaeChangEau Shoes of Doggebi                      end
+1518  G55   DaeChangEau Shorts of Doggebi                     end
+1519  G60   Golden Scaled Armor                               end
+1520  G60   Golden Scaled Armor Helmet                        end
+1521  G60   Golden Scaled Armor Gloves                        end
+1522  G60   Golden Scaled Armor Shoes                         end
+1523  G60   Golden Scaled Armor Shorts                        end
+1524  G60   Golden Armor                                      end
+1525  G60   Golden Armor Helmet                               end
+1526  G60   Golden Armor Gloves                               end
+1527  G60   Golden Armor Shoes                                end
+1528  G60   Golden Armor Skirts                               end
+1529  G60   Golden DaeChangEau                                end
+1530  G60   Golden DaeChangEau Hair Decoration                end
+1531  G60   Golden DaeChangEau Gloves                         end
+1532  G60   Golden DaeChangEau Shoes                          end
+1533  G60   Golden DaeChangEau Shorts                         end
+1534        monster summoning scroll(1 level                  Summon 5 monsters whose levels are 40s around you.
+1535        monster summoning scroll(2 level                  Summon 5 monsters whose levels are 50s around you.
+1536        monster summoning scroll(3 level                  Summon 7 monsters whose levels are 60s around you.#nLimitation : 50Lv Requirement
+1537        monster summoning scroll(4 level                  Summon 10 monsters whose levels are 70s around you.#nLimitation : 60Lv Requirement
+1538        monster summoning scroll(5 level                  Summon 15 monsters whose levels are 80s around you.#nOnly a character in the third job can use.
+1540        Teleport Scroll                                   Your character moves to the target.
+1541        Teleport Scroll                                   Your character moves to the target.
+1595        Apprentice thief's Trinket                        end
+1596        ZilPoongShinRhoe                                  Shadow of death with quickness#nIt's good at speedy combat
+1603        3 Cash Ticket (Exchangeable for Silver Cash       Interesting ticket which has been known that it brings luck when we keep it
+1604        5 Cash Ticket (Exchangeable for Silver Cash       Interesting ticket which has been known that it brings luck when we keep it
+1605        10 Cash Ticket (Exchangeable for Silver Cash      Interesting ticket which has been known that it brings luck when we keep it
+1606        30 Cash Ticket (Exchangeable for Silver Cash      Interesting ticket which has been known that it brings luck when we keep it
+1607        50 Cash Ticket (Exchangeable for Silver Cash      Interesting ticket which has been known that it brings luck when we keep it
+1608        100 Cash Ticket (Exchangeable for Silver Cash     Interesting ticket which has been known that it brings luck when we keep it
+1609  G65   Red Dragon shield                                 It is the shield whose appearance#n is inspired from the silhouette of Red Dreagon.#n Only the one who get recognized by the king can get this shield.#nIt can be bought with Reward points.
+1611        Talisman of Transmigration                        The supernatural talisman by which your latest fighting experience lost can be restored.
+1612        Essence of fire element                           It is the core substance which consists of Fire element, #nand covered with red luster.
+1613        Essence of water element                          It is the core substance which consists of Water element, #nand covered with blue luster.
+1614        Essence of wood element                           It is the core substance which consists of Wood element, #nand covered with green luster.
+1615        Essence of iron element                           It is the core substance which consists of Iron element, #nand covered with violet luster.
+1616        Essence of earth element                          It is the core substance which consists of Earth element, #nand covered with yellow luster.
+1617        Essence of undead                                 It is the core substance which consists of Fire element, #nand covered with dark power.
+1618        I'ryer's necklace                                It is the necklace belching out I'sryer's power. #nIt was temporarily made by Il Ja to go into I'sryer's room.
+1619        I'ryer's ring                                    The trophy which can be obtained by beating off I'sryer's soul.
+1620        Moving Trinket                                    The mysterious trinket with which #n a character can be transferred to the unknown world.
+1621        Piece of Unknown World                            It is the piece of Unknown World which is found in the crack of the world. #nThere will be a certain person who want it.
+1628  G72   Baked Carp with silver scales of Geum-Oh Valley   It is a backed corp which has silver scales and lives only in Geum-Oh Valley.#nIt has a spicy fragrance. Once it is used, #n1,890 ~ 3,750 health points will be recovered for 30 seconds.
+1629  G72   Pure Dew-Tea of Geum-Oh Mountain                  It is the tea made of pure dew in the heart of mountains. #nOnce it is used, 1,620 ~ 2,070 health points will be recovered for 30 seconds.
+1631  G65   Blood Dragon's Scaled Armor                       end
+1632  G65   Blood Dragon's Scaled Armor                       end
+1633  G65   Blood Dragon's Scaled Armor Shorts                end
+1634  G65   Blood Dragon's Scaled Armor Shorts                end
+1635  G65   Blood Dragon's Armor                              end
+1636  G65   Blood Dragon's Armor                              end
+1637  G65   Blood Dragon's Armor Skirts                       end
+1638  G65   Blood Dragon's Armor Skirts                       end
+1639  G65   Blood Dragon's DaeChangEau                        end
+1640  G65   Blood Dragon's DaeChangEau                        end
+1641  G65   Blood Dragon's DaeChangEau Shorts                 end
+1642  G65   Blood Dragon's DaeChangEau Shorts                 end
+1665        High-Grade Scroll of Rebirth                      You can revive from the place.#nwhere you got killed without any EXP loss.
+1666        Polishing Stone                                   When it used on an item,#nitem won't be destroyed even if it failed to enchant with talisman.
+1667        Talisman of Transmigration                        The supernatural talisman by which your latest fighting experience lost can be restored.
+1675  G62   Golden Stick of Distress                          end
+1676  G62   Golden Stick of Sabbath                           end
+1677  G65   Dragon's Insight Stick of Sky                     end
+1678  G65   Dragon's Fury Stick of Sky                        end
+1692        Demon Troop's Catapult lever                      Demon Troop's Catapult lever
+1693        Crazy Demon Worker's Head                         Crazy Demon Worker's Head
+1694        Sealed Stone with Village Headman's Spirit        Sealed Stone with Village Headman's Spirit
+1695  G70   Blood Dragon's Sword                              end
+1696  G70   Blood Dragon's Giant sword                        end
+1697  G70   Blood Dragon's Bow                                end
+1698  G70   Blood Dragon's Stick                              end
+1700  G70   Imperial Blood Dragon's Sword                     end
+1701  G70   Imperial Blood Dragon's Giant Sword               end
+1702  G70   Imperial Blood Dragon's Bow                       end
+1703  G70   Imperial Blood Dragon's Stick                     end
+1705  G70   Blood Dragon Stick of Ruin                          end
+1706  G70   Blood Dragon Stick of Hell                          end
+1709  G65   Dragon's Imperial Stick Of Immortality            end
+1710  G70   Blood Dragon Imperial Stick of Immortality          end
+1711        Crazy Demon Head                                  Crazy Demon Head
+1712        Poppy                                             Poppy
+1713        Crazy Demon Worker's Head                         Crazy Demon Worker's Head
+1714        Soo-Ryun's Letter                                 Soo-Ryun's Letter
+1715        Yun-Hwa's Letter                                  Yun-Hwa's Letter
+1716        Elite Skeleton Head                               Elite Skeleton Head
+1717        Elite Skeletion Archer Head                       Elite Skeleton Archer Head
+1718        Wild Boar Chop of Meat                            Wild Boar Chop of Meat
+1719        Piece of Map1                                     Piece of Map1
+1720        Piece of Map2                                     Piece of Map2
+1721        Piece of Map3                                     Piece of Map3
+1722        Piece of Map4                                     Piece of Map4
+1723        Piece of Map5                                     Piece of Map5
+1724        Piece of Map6                                     Piece of Map6
+1725        Piece of Map7                                     Piece of Map7
+1726        Piece of Map8                                     Piece of Map8
+1727        Piece of Map9                                     Piece of Map9
+1728        Piece of Map10                                    Piece of Map10
+1729        Scorpions Poisoned needle                         Scorpions Poisoned needle
+1730        Bear's gall                                       Bear?s gall
+1731        Knoll of certificate                              Knoll of certificate
+1732        Goblin of Strategic Book                          Goblin of Strategic Book
+1733        Blue Bead                                         Blue Bead
+1734        Treasure Sword                                    Treasure Sword
+1735        Book                                              Book
+1736        Water Bag                                         Water Bag
+1737        Bear Head                                         Bear Head
+1738        Goblin Conjurator Head                            Goblin Conjurator Head
+1739        Degenarated Twisted Demon Nail                    Degenarated Twisted Demon Nail
+1740        Wolf Fur                                          Wolf Fur
+1741  G75   Mission letters                                   Collect 50 Crazy Demon Worker's Heads.
+1742  G78   Mission letters                                   Collect 30 Wild Boar Chop of meat.
+1743  G80   Mission letters                                   Collect 10 Pieces of Map.
+1744  G82   Mission letters                                   Collect 80 Knoll of certificate.
+1745  G84   Mission letters                                   Collect 50 Goblin Conjurator Heads
+1772        Goblin's Decoder                                  Goblin's Decoder
+1773        Crazy Demon Worker's Leader Head                  Crazy Demon Worker's Leader Head
+1774        Skeletons with the pack                           Skeletons with the pack
+1775        Wolf Commander Head                               Wolf Commander Head
+1776        Scorpion Shell                                    Scorpion Shell
+1777        Suit of armor.                                    Suit of armor
+1778        Complete suit of armor.                           Complete suit of armor
+1779        Sickle                                            Sickle
+1780        Bear fur                                          Bear fur
+1781        Brown Bear meat                                   Brown Bear meat
+1782        Urgent letter                                     Urgent letter
+1783        Wild Boar's horn                                  Wild Boar's horn
+1784        Degenarated Twisted Demon Head                    Degenarated Twisted Demon Head
+1785        Poisonous liquid                                  Poisonous liquid
+1786        Diluted Poisonous Liquid                          Diluted Poisonous Liquid
+1787        Medeicine pack                                    Medeicine pack
+1788        Secret document                                   Secret document
+1789        Guard of D'evah's Commander Head                  Guard of D'evah's Commander Head
+1790        Wild Boar's Head                                  Wild Boar's Head
+1791        Knoll Head                                        Knoll Head
+1792        Goblin Head                                       Goblin Head
+1793        Guard of D'evah Head                              Guard of D'evah Head
+1794        Properly Brown Bear meat                          Properly Brown Bear meat
+1795        Goblin's pocket                                   Goblin's pocket
+1796  G86   Mission letters                                   Collect 80 Wild Boar's Head.
+1797  G87   Mission letters                                   Collect 100 Knoll Head.
+1798  G88   Mission letters                                   Collect 120 Degenarated Twisted Demon Head.
+1799  G89   Mission letters                                   Collect 150 Goblin Head.
+1800  G90   Mission letters                                   Collect 200 Guard of D'evah's Head.
+1801  G70   Soo-Ra Blood Dragon's Sword                       end
+1802  G70   Soo-Ra Dragon's Giant Sword                       end
+1803  G70   Soo-Ra Blood Dragon's Bow                         end
+1805  G70   Soo-Ra Blood Dragon's Stick                       end
+1806  G65   Soo-Ra Dragon Sword of Sky                        end
+1807  G65   Soo-Ra Dragon Giant Sword of Sky                  end
+1808  G65   Soo-Ra Dragons Bow of Sky                         end
+1810  G65   Soo-Ra Dragons Stick of Sky                       end
+1811        Soo-Ra Ring                                       end
+1812        Soo-Ra Protection Talisman                        end
+1813        Soo-Ra Trinket                                    end
+1814        Coupon                                            Coupon for Auction Event.#nAble to use for bid or exchange something for a certain number of Coupons
+1816        Talisman of Wonder                                end
+1817        Talisman of Wonder                                end
+1818        Talisman of Wonder                                end
+1819        Talisman of Wonder                                end
+1820        Talisman of Wonder                                end
+1825        Empty soul fragment of D'evah                     Piece of Broken Soul which D'evah has lost#nHand in to soul fragment collector Chang-Sun,#nand a certain reward would be given in accordance with its number to be submitted.
+1826        Lost armor fragment of D'evah                     Piece of armor which D'evah has lost#nHand in to armor fragment collector Seo-Eun,#nand a certain reward would be given in accordance with its number to be submitted.
+1821  G65   Dragon's Imperial Stick Of Insight                end
+1822  G65   Dragon's Imperial Stick Of Fury                   end
+1823  G70   Blood Dragon Imperial Stick of Ruin               end
+1824  G70   Blood Dragon Imperial Stick of Hell               end
+1852  G65   Dragon's Imperial Stick Of pain                   end
+1853  G70   Blood Dragon Imperial Stick of pain               end
+1832  G1    Santa Coat of Knight                              15% of additional speed-up buff if putting on full armor set.
+1833  G1    Santa Hat of Knight                               15% of additional speed-up buff if putting on full armor set.
+1834  G1    Santa Gloves of Knight                            15% of additional speed-up buff if putting on full armor set.
+1835  G1    Santa Boots of Knight                             15% of additional speed-up buff if putting on full armor set.
+1836  G1    Santa Pants of Knight                             15% of additional speed-up buff if putting on full armor set.
+1837  G1    Santa Coat of Magician                            15% of additional speed-up buff if putting on full armor set.
+1838  G1    Santa Hat of Magician                             15% of additional speed-up buff if putting on full armor set.
+1839  G1    Santa Gloves of Magician                          15% of additional speed-up buff if putting on full armor set.
+1840  G1    Santa Boots of Magician                           15% of additional speed-up buff if putting on full armor set.
+1841  G1    Santa Pants of Magician                           15% of additional speed-up buff if putting on full armor set.
+1842  G1    Santa Coat of Archer                              15% of additional speed-up buff if putting on full armor set.
+1843  G1    Santa Hat of Archer                               15% of additional speed-up buff if putting on full armor set.
+1844  G1    Santa Gloves of Archer                            15% of additional speed-up buff if putting on full armor set.
+1845  G1    Santa Boots of Archer                             15% of additional speed-up buff if putting on full armor set.
+1846  G1    Santa Skirt of Archer                             15% of additional speed-up buff if putting on full armor set.
+1827        Auction Certificate(1 day                         Allow to open aution for 1 day(24 hours
+1828        Auction Certificate(3 day                         Allow to open aution for 3 day(72 hours
+1829        Auction Certificate(7 day                         Allow to open aution for 7 day(168 hours
