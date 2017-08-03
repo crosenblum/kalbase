@@ -1,0 +1,374 @@
+*VER 14
+*COLOR 128 255 255
+Game Updates on May 23, 2006
+*COLOR 255 255 255
+[Game patch] 
+<<<Scenario 2: The Cave of The Giant Bird>>>
+<cl>
+1. There is the cave at the north of the Highland of Sky.
+<cl>
+2. The cave has the 6th underground tunnel. 
+<cl>
+3. New monsters in the cave, like 'Demon Worker', 'Demon Guard' and 'Insect' are waiting for your challenge.
+<cl>
+4. At the deepest tunnel, there is 'The Nest' which has manufactured Demons.
+<cl>
+5. Many items will be dropped at the cave, like G53, G56, G59 weapon, G50, G55 armor. In addition, G60 Armor will be dropped from the Boss 'Demon Queen' in the cave.
+<cl>
+6. The boss in the cave will be spawned once in a week.
+
+*COLOR 128 255 255
+Game Updates on May 2, 2006
+*COLOR 255 255 255
+<cl>
+[Game patch]
+<cl>
+Making Food/Speed up Medicine iterface update changed. 
+<cl>
+*COLOR 128 255 255
+Game Updates on April 11, 2006
+*COLOR 255 255 255
+<cl>
+[Game patch]
+<cl>
+-. The castle siege will be changed
+<cl>
+1) Display of the players who died during the Castle Siege
+- Friendly forces¡¯ name will be displayed in gray.
+- If the players are not friendly forces, their name will not be displayed.
+<cl>
+2) Flag Setting and procedures changed
+- When the leader of the allies set the flag up, it becomes [Lord Proclamation Condition] for 5 minutes. And if the flag is protected for 5minutes, the lord of the castle will be changed.
+- The flag will be blinking during the [Lord Proclamation Condition]
+- Other players can attack the flag during the [Lord Proclamation Condition]
+- All players can see the message of time left (every minutes) on the screen during the [Lord Proclamation Condition]
+- If the flag is destroyed during the [Lord Proclamation Condition], the castle ownership will go to its original owner and it shows on the screen.
+- Even if the [Lord Proclamation Condition] is ended, HP of the flag still remains.
+- When the Castle Siege is ended during the leaders of offender is setting up the flag or it¡¯s [Lord Proclamation Condition], the Castle Siege time will be extended for 10 minutes and it will be printed on the screen.
+- Overtime can be held 3 times for maximum(total of 30 minutes).
+- After the time of overtime is ended, the allies who occupied the castle will be won.
+However, the [Lord Proclamation Condition] is not occupied condition.
+- After the end of the overtime and no one sets up the flag, the defender will be won.
+However, if there¡¯s the allies who in the [Lord Proclamation Condition], the allies will be won.
+<cl>
+3) Weapons of Castle Siege
+- The weapon of castle siege only can be handled by who learned the Artillery skill.
+- The Artillery only can be learned from the Master NPCs. And the players must be obtained 2nd class of job.
+- The weapon of castle siege only can be used by the guild members and they must be attended the castle siege.
+- The weapon of castle siege only can be set up on the cannon position and materials won¡¯t be back when is disassembled.
+- The materials are needed for setting up the weapons of castle siege and they can be bought from the Weapon Artisan NPC in Narootuh.
+- The weapon of castle siege has minimum and maximum range and the out of rage is indicated as red icon.
+- The weapon of castle siege shows the name of the guild that set up the weapon of castle siege and the name of the player who controls it.
+- The player must ride the weapon of castle siege for controlling it and the player who controls the weapon of castle siege is protected from the enemies¡¯ attacks
+<cl>
+*COLOR 128 255 255
+Game Updates on March 16, 2006
+*COLOR 255 255 255
+<cl>
+[Game patch]
+<cl>
+¡Øafter the update: The Hackshield for KalOnline was modified on March 16, 2006.
+<cl>
+*COLOR 128 255 255
+Game Updates on February 14, 2006
+<cl>
+*COLOR 255 255 255
+[Game patch]
+Client Security Patch
+<cl>
+¡Øafter the update: in case of server connection problems wherein the user is unable to connect.
+Users are instructed to uninstall the existing KalOnline client and delete the existing folder as well
+Users can find the patched Full Client Download from our home page 
+(http://www.kalonline.com/Download/Client.asp?btn=1)
+<cl>
+
+*COLOR 128 255 255
+Game Updates on January 17, 2006
+<cl>
+*COLOR 255 255 255
+[Game patch]
+<cl>
+1. The Assassin List is modified. (Updating list)
+2. The dropping rate of items is increased. (only assassin)
+<cl>
+*COLOR 128 255 255
+Game Updates on January 3, 2006
+<cl>
+*COLOR 255 255 255
+[Change subject]
+The Gamble system will be closed after Regular Server Maintenance today.
+The following is detailed this information.
+<cl>
+=========================================================================================
+Because of some problem, We will exchange "Gold Coin" and "Gold and Silver Lucky Pouch" into Zamogeon in yours.
+
+- Gold Coin => Zamogeon as Amount of Gold Coin
+(Ex. 500 Gold Coin => 5000 Zamogeon)
+
+- Each Gold Lucky Pouch => 5000 Zamogeon
+Each Silver Lucky Pouch => 2500 Zamogeon
+==========================================================================================
+<cl>
+After solving problem, We'll set to The Gamble system again. 
+<cl>
+*COLOR 128 255 255
+Game Updates on December 27, 2005
+<cl>
+*COLOR 255 255 255
+[Game update]
+<cl>
+1. New Server Open
+-. Existing server name : Hanin
+-. New server name : Naraeha ( characters from existing server cannot be transferred to the new server)
+<cl>
+2. scenario 1 update
+-. Addition of new monsters, dungeon, and items 
+(for more information please refer to the kalonline homepage¡¯s game information)
+<cl>
+[The King of Leveling Event (Limited to Nareaha server only)]
+1. Event Period:
+- December 27, 2005. 04:00 PM ~ January 24, 2006. 10:00 AM (4 weeks)
+<cl>
+2. Event Details:
+- The top 30 users, who level up the most during the event, will be selected to receive a prize. 
+(Normal item or Kalcash item)
+- The standard of selecting : select the users (Rank - 1~3 / 4~10 / 11~30) into Rank list(homepage) on January 24, 2006.
+- The Event Prize : 
+ Rank 1st____________ grade 21 animal (corresponding class/ocupation) + Stone of EXP (15 days)
+ Rank 2nd___________  grade 15 animal (corresponding class/ocupation) + Stone of EXP (15 days)
+ Rank 3rd____________ 1,000,000 geon + Stone of EXP (15 days)
+ Rank 4th ~ 10th_______500,000 geon
+ Rank 11th ~ 30th _____ 300,000 geon
+- Announcement : January 31, 2006 (Homepage)
+<cl>
+*COLOR 128 255 255
+Game Updates on December 13, 2005
+<cl>
+*COLOR 255 255 255
+[Game Update]
+<cl>
+1. Fishing System Modification
+1) Existing Fishing Ground Keeper NPC will be relocated to the uninhabited Islands.
+2) Fishing Grounds Manager will occupy the existing Fishing Grounds Keeper NPC¡¯s location.
+3) Upon clicking the Fishing Grounds Manager NPC and selecting the portal function, users will be teleported to the Uninhabited Island.
+¡ØThe portal function¡¯s destination is randomly selected on the uninhabited Island
+<cl>
+2. Uninhabited Island Addition
+1) The island can only be accessed through the Fishing Grounds Manager
+2) Each uninhabited island has a fishing ground keeper npc readily available. Fishing commences in the same manner prior to update.
+<cl>
+3. Relation of Character Deletion
+1) Upon deletion of a character, the ¡°select character¡± screen will now have a character restoration function available. 
+2) Once a character is deleted; the character restoration function will only be available to you for two weeks. For restoration of your character, you must do so before the two weeks allotted time expires.
+<cl>
+*COLOR 128 255 255
+Game Updates on December 6, 2005
+<cl>
+*COLOR 255 255 255
+[Game Update]
+<cl>
+¡Ø Lucky Pouch
+<cl>
+Every time 5000 or more gold coins is traded for geons, you will recieve a lucky Pouch.
+
+<cl>
+- 5,000 gold coins: 1 Silver Lucky Pouch
+- 10,000 gold coins: 1 Gold Lucky Pouch
+<cl>
+The usage of lucky Pouch(activate by mouse click) will give you a chance to obtain geons, 
+talismans, and other various different items.
+<cl>
+*COLOR 128 255 255
+Game Updates on November 29, 2005
+<cl>
+*COLOR 255 255 255
+[Double Event]
+<cl>
+1. Event Period:
+- November 29, 2005. 14:00 ~ December 2, 2005. 14:00 (Korean Time)
+<cl>
+2. Event Details:
+- During the event period, you can get twice more EXPs and Items from the monsters.
+<cl>
+*COLOR 128 255 255
+Game Updates on November 2, 2005
+<cl>
+*COLOR 255 255 255
+[Update]
+<cl>
+@ Gamble system
+<cl>
+- You can play the Gamble with Pair Maker Master in Temporary Fort of Geum-Ohee Castle, 
+The Pub of The Giant Bird and The City of Priest.
+- You need to be level 30 or higher to play the minigames.
+<cl> 
+@ Game Process
+<cl> 
+ 1. 30 gold coins are needed to play.
+<cl> 
+ 2. When the game is started, 10 gold coins are used and 
+one card is given to the both of Pair Maker Master and the player.
+<cl> 
+ 3. The player can bet gold coins(20 geons ~1,000 geons) or give up the game.
+<cl> 
+ 4. When 2 cards are given to all, winner is decided by the rules.
+<cl> 
+@ Rules of the Game
+<cl> 
+ 1. You win if you have pair and higher number of pair is the better.
+<cl> 
+ 2. If no one has the pair of the cards, add the numbers on your 2 cards 
+and higher first digit number is the better. But it the added number
+are same with the Pair Maker Master, the player loses.
+<cl> 
+ 3. If your 2 cards are number 10, you win 3 times more gold coins from how much you bet. 
+<cl>
+@ Changing the Coin
+<cl> 
+ - Value of gold coin: Zamogeon 1,000 geons = Gold coin 100 geons
+<cl> 
+ - The amount that is able to change Zamogeon into coin
+ 100/ 300/ 500/ 1,000/ 5,000/ 10,000
+<cl> 
+ - 10 % of service charge per change
+<cl>
+*COLOR 255 255 255
+[Update]
+<cl>
+1. Update on the Character animations.
+<cl>
+ - Character animations update on each class characters.
+<cl>
+ - Player commands can be checked in the Action window.
+<cl>
+ - Player commands can be entered by typing "/command" in the chat window.
+<cl>
+Please refer to the information of Event in Homepage. (www.KalOnline.com)
+<cl>
+*COLOR 128 255 255
+Game Updates on October 26, 2005
+<cl>
+*COLOR 255 255 255
+[Update]
+<cl>
+1.Update on the Assassin Mask System 
+<cl>
+-. Durability will be added to the Assasin Mask. (Disposable)  
+<cl>
+-. The price of the assasin mask is now down to 15,000 from 35,000.
+<cl>
+-. The game can not be disconnected in the status of assassin.
+<cl>
+-. The experience loss will be doubled if the character is dead in the status of assassin.
+<cl>
+-. The old assasin mask can't be used anymore. (can be sold at the store at 35,000)  
+<cl>
+-. The assassin status remains for 3 hours.
+<cl>
+2. We are very sorry for causing this trouble.
+   We will check all the data of those who had a transactions on the assasin mask before the update, 19th of Oct. and put the data back.
+   And also, we will pay back the money(25,000 for each) on 26th. Oct.(Wednesday) which is our regular server check-up day .
+<cl>
+3. The security update on the client (Config. File update) 
+<cl>
+4. We fixed the bug that low-level monster(Blue color) doesn't drop the item.
+<cl>
+Please refer to the information of Event in Homepage. (www.KalOnline.com)
+<cl>
+*COLOR 128 255 255
+Game Updates on September 29, 2005
+<cl>
+*COLOR 255 255 255
+[Event]
+<cl>
+1. Event name : "Help the Birds!"
+<cl>
+2. Date : September 29 (Wednesday) 11:30 AM ~ October 19 (Wednesday) 10:00 (3weeks)
+<cl>
+3. Datails
+<cl>
+ - The Birds(NPC - Hawk, Owl and Crow) are appeared in village for Event time.
+<cl>
+ - If you agree with the request of Birds(one out of birds), they help for your hunting.
+<cl>
+  * The Birds are not attacked by Monsters but it disappears if your character is died.  
+    And also it disappears after 2hours automatically.
+  * The status of your character is increased if you are with the Birds.
+  * The character of 10 level or higher can only be joined on this Event.
+<cl>
+Please refer to the information of Event in Homepage. (www.KalOnline.com)
+<cl>
+*COLOR 128 255 255
+Game Updates on July 13, 2005
+<cl>
+*COLOR 255 255 255
+1. Details
+<cl>
+ - Adding for second job skills
+<cl>
+1) Commander
+ - Survival Instinct : When remaining MP is converting MP to HP
+ - Call of Lightning Defense : Increase Lightning defense of all member of group
+ - Call of Ice Defense : Increase Ice defense of all member of group
+ - Call of Fire Defense : Increase Fire defense of all member of group
+ - Call of On Target Point : Increase On Target Point of all member of group
+ - Elastic Shield : Increase the Defense of all member of group instantly
+ - Revival : Revive one who is unable to fight with minimum health point, decreasing 50% EXP
+ - Call of Physical Attack : Increase the Max Attack Point of all member of group 
+ - Sacrifice : Using your HP to recover the target HP 
+<cl>
+2) Vagabond Swordman
+ - Berserk : Offensive power increases but Defensive power decreases
+ - Half Swing : Swing a weapon and attack the front of 180 degree enemies (Only two hand weapons are possible.)
+ - Increase of Critical Hit : Increase the damage of Critical Hit (The percentage of Critical Hit is not changeable)
+<cl>
+3) Imperial Commander
+ - Curse of Critical Hit : Decrease the activation percentage of Cirtical Hit temporally
+ - Curse of Strength : Decrease the target's strength temporally
+ - Curse of Health : Decrease the target's health temporally
+ - Curse of Agility : Decrease the target's Agility temporally
+ - Curse of Intellegence : Decrease the target's Intellegence temporally
+ - Curse of Wisdom : Decrease the target's Wisdom temporally
+ - Curse of Defense : Decrease the target's Defense temporally
+ - Poison Cloud : Spread the poison cloud and give continous damage to the all player in the poison cloud
+ - Loss of Confidence : Decrease the target's On-Target Point temporally
+ - Sight Blockade : Block the target's sight and make the target blind (reducing the moving speed)
+ - Buff Remover : Disable all the buffs from the target
+ - MP Vaporization : Vaporize the target's MP for certain amount of time 
+<cl>
+4) Expert Archer
+ - Lightning Resistance : Increase the resistance on Lightning temporally
+ - Ice Resistance : Increase the resistance on Ice temporally
+ - Fire Resistance : Increase the resistance on fire temporally
+ - Powerful Arrow of Silence : Block the opponent's magic, and consume the target's MP
+ - Curse Resistance : Increase the resistance on Curse
+ - Non-Attribution Resistance : Increase the resistance on Non-Attribution
+ - Emergency Escape : Run fastly to escape from the danger temporally 
+                      It effects on all your group members who are near you
+ - Critical Hit : The power of attack is increased
+<cl>
+5) Chairperson of Joong-Bang
+ - Purification : Disable all debuffs of the selected target
+ - Perfect Cure : Recover the health of the selected targe instantly
+ - Increase of Target Range : Increase the range of all kinds of cure magic
+ - Blessing of Strength : Increase the strength of the selected target
+ - Blessing of Health : Increase the health of the selected target
+ - Blessing of Agility : Increase the Agility of the selected target
+ - Blessing of Intelligence : Increase the Intelligence of the selected target
+ - Increase of Critical Hit : Increase the appearance of Critical Hit of the selected target
+ - Distance Control : Increase the range of [Soul Destruction]
+ - Group Cure : Recover the health point of all the group members
+ - Amnesia : Make the anger point of selected target to zero
+ - Perfect Group Cure : Recover the Health of your group memebers in the effective area instantly
+ - Perfect Healing : Recover 100% of HP of selected target
+<cl>
+6) Hermit
+ - Ice Restriction : Call the ice to the selected target and give the damage to the target and reduce the moving speed
+ - Chain Lightning : Deliver the lightning effect to the selected target and the near the target continuously
+ - Explosion : The selected target gets hot wind and it's exploded and burned
+ - Thunder : Drop thunderbolt to the selected target
+ - Explosive Burst : Big explosion is made on the selected area and all enemies get damages 
+ - Ice Storm : Ice and snow are droping for certain amount of time on the selected area and all enemies get damages
+ - Fire Storm : Fire is droping for certain amount of time on the selected area and all enemies get damages
+ - Thunder Storm : Thunderbolts are droping for certain amount of time on the selected area and all enemies get damages
+<cl>
