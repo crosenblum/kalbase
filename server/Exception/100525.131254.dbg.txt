@@ -1,0 +1,52 @@
+[94c 2010/05/25 13:12:54]: ======================= first excpetion
+start at 10/05/25 13:12:49
+D:\Games\KalOnline\CleanRepack\Server Files\MainServer Obsidian - 3.exe, run by Lars.
+2 processor(s), type 586.
+2047 MBytes physical memory.
+an Access Violation in module MainServer Obsidian - 3.exe at 001b:0044870c.
+Read from location fcfcfdc8 caused an access violation.
+
+Registers:
+EAX=0291fe14 CS=001b EIP=0044870c EFLGS=00010216
+EBX=018b62c8 SS=0023 ESP=13deff00 EBP=13deff20
+ECX=0291fe14 DS=0023 ESI=018b62c8 FS=003b
+EDX=fcfcfcfc ES=0023 EDI=00000000 GS=0000
+
+Bytes at CS:EIP:
+ff 92 cc 00 00 00 eb d2 8b 4d e4 83 c1 10 e8 b1 
+
+Stack dump:
+13deff00: 00000001 004e1ad8 0291fe14 fcfcfcfc 13deff20 00000000 13deff20 0040dd9c
+13deff20: 13deff30 00423c61 00000001 004e1ad8 13deff54 00423f14 00000001 00000001
+13deff40: 00000000 004e1ad8 00000001 00000001 00000000 13deff88 004a0c2a 00000001
+13deff60: 00000000 00000000 018b62c8 c0000005 13deff60 13defb0c 13deffc4 004a0820
+13deff80: 004d29b0 00000000 13deff94 75d61174 018b62c8 13deffd4 7777b3f5 018b62c8
+
+Call Stack Information:
+
+13deff20  0044870c D:\Games\KalOnline\CleanRepack\Server Files\MainServer Obsidian - 3.exe 
+Params:   00000001 004e1ad8 13deff54 00423f14
+
+13deff30  00423c61 D:\Games\KalOnline\CleanRepack\Server Files\MainServer Obsidian - 3.exe 
+Params:   00000001 00000001 00000000 004e1ad8
+
+13deff54  00423f14 D:\Games\KalOnline\CleanRepack\Server Files\MainServer Obsidian - 3.exe 
+Params:   00000001 00000000 00000000 018b62c8
+
+13deff88  004a0c2a D:\Games\KalOnline\CleanRepack\Server Files\MainServer Obsidian - 3.exe 
+Params:   018b62c8 13deffd4 7777b3f5 018b62c8
+
+13deff94  75d61174 C:\Windows\system32\kernel32.dll 
+Params:   018b62c8 64bfd395 00000000 00000000
+13deffa0: 64bfd395 00000000 00000000 018b62c8 00000000 00000000 00000000 13deffa0
+13deffc0: 00000000 ffffffff 7773d74d 001629d9 00000000 13deffec 7777b3c8 004a0bbb
+
+13deffd4  7777b3f5 C:\Windows\SYSTEM32\ntdll.dll 
+Params:   004a0bbb 018b62c8 00000000 00000000
+13deffe0: 018b62c8 00000000 00000000 00000000 00000000 004a0bbb 018b62c8 00000000
+
+13deffec  7777b3c8 C:\Windows\SYSTEM32\ntdll.dll 
+Params:   004a0bbb 018b62c8 00000000 147b0000
+
+Module list:
+D:\Games\KalOnline\CleanRepack\Server Files\MainServer Obsidian - 3.exe, loaded at 0x00400000 - 06/06/01 11:11:32 (KR)
